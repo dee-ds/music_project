@@ -1,0 +1,7794 @@
+{
+    "Best I Ever Had": [
+        {
+            "date": "2009-05-23",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 92,
+            "wks_on_chart": 1,
+            "score": 9
+        },
+        {
+            "date": "2009-05-30",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 70,
+            "wks_on_chart": 2,
+            "score": 31
+        },
+        {
+            "date": "2009-06-06",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 60,
+            "wks_on_chart": 3,
+            "score": 41
+        },
+        {
+            "date": "2009-06-13",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 18,
+            "wks_on_chart": 4,
+            "score": 83
+        },
+        {
+            "date": "2009-06-20",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 18,
+            "wks_on_chart": 5,
+            "score": 65
+        },
+        {
+            "date": "2009-06-27",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 18,
+            "wks_on_chart": 6,
+            "score": 74
+        },
+        {
+            "date": "2009-07-04",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 3,
+            "wks_on_chart": 7,
+            "score": 98
+        },
+        {
+            "date": "2009-07-11",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 3,
+            "wks_on_chart": 8,
+            "score": 98
+        },
+        {
+            "date": "2009-07-18",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 3,
+            "wks_on_chart": 9,
+            "score": 98
+        },
+        {
+            "date": "2009-07-25",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 10,
+            "score": 99
+        },
+        {
+            "date": "2009-08-01",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 11,
+            "score": 99
+        },
+        {
+            "date": "2009-08-08",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 12,
+            "score": 99
+        },
+        {
+            "date": "2009-08-15",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 13,
+            "score": 99
+        },
+        {
+            "date": "2009-08-22",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 14,
+            "score": 98
+        },
+        {
+            "date": "2009-08-29",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 15,
+            "score": 95
+        },
+        {
+            "date": "2009-09-05",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 2,
+            "wks_on_chart": 16,
+            "score": 94
+        },
+        {
+            "date": "2009-09-12",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 2,
+            "wks_on_chart": 17,
+            "score": 94
+        },
+        {
+            "date": "2009-09-19",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 2,
+            "wks_on_chart": 18,
+            "score": 91
+        },
+        {
+            "date": "2009-09-26",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 2,
+            "wks_on_chart": 19,
+            "score": 88
+        },
+        {
+            "date": "2009-10-03",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 2,
+            "wks_on_chart": 20,
+            "score": 87
+        },
+        {
+            "date": "2009-10-10",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 2,
+            "wks_on_chart": 21,
+            "score": 85
+        },
+        {
+            "date": "2009-10-17",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 2,
+            "wks_on_chart": 22,
+            "score": 80
+        },
+        {
+            "date": "2009-10-24",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 2,
+            "wks_on_chart": 23,
+            "score": 64
+        },
+        {
+            "date": "2009-10-31",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 2,
+            "wks_on_chart": 24,
+            "score": 60
+        }
+    ],
+    "Over": [
+        {
+            "date": "2010-03-27",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 35,
+            "wks_on_chart": 1,
+            "score": 66
+        },
+        {
+            "date": "2010-04-03",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 17,
+            "wks_on_chart": 2,
+            "score": 84
+        },
+        {
+            "date": "2010-04-10",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 17,
+            "wks_on_chart": 3,
+            "score": 79
+        },
+        {
+            "date": "2010-04-17",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 17,
+            "wks_on_chart": 4,
+            "score": 77
+        },
+        {
+            "date": "2010-04-24",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 17,
+            "wks_on_chart": 5,
+            "score": 79
+        },
+        {
+            "date": "2010-05-01",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 17,
+            "wks_on_chart": 6,
+            "score": 81
+        },
+        {
+            "date": "2010-05-08",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 16,
+            "wks_on_chart": 7,
+            "score": 85
+        },
+        {
+            "date": "2010-05-15",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 14,
+            "wks_on_chart": 8,
+            "score": 87
+        },
+        {
+            "date": "2010-05-22",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 14,
+            "wks_on_chart": 9,
+            "score": 84
+        },
+        {
+            "date": "2010-05-29",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 14,
+            "wks_on_chart": 10,
+            "score": 86
+        },
+        {
+            "date": "2010-06-05",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 14,
+            "wks_on_chart": 11,
+            "score": 82
+        },
+        {
+            "date": "2010-06-12",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 14,
+            "wks_on_chart": 12,
+            "score": 79
+        },
+        {
+            "date": "2010-06-19",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 14,
+            "wks_on_chart": 13,
+            "score": 80
+        },
+        {
+            "date": "2010-06-26",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 14,
+            "wks_on_chart": 14,
+            "score": 70
+        },
+        {
+            "date": "2010-07-03",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 14,
+            "wks_on_chart": 15,
+            "score": 69
+        },
+        {
+            "date": "2010-07-10",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 14,
+            "wks_on_chart": 16,
+            "score": 65
+        },
+        {
+            "date": "2010-07-17",
+            "pos": 43,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 14,
+            "wks_on_chart": 17,
+            "score": 58
+        },
+        {
+            "date": "2010-07-24",
+            "pos": 47,
+            "artist": "Drake",
+            "last_week": 43.0,
+            "peak_pos": 14,
+            "wks_on_chart": 18,
+            "score": 54
+        },
+        {
+            "date": "2010-07-31",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": 47.0,
+            "peak_pos": 14,
+            "wks_on_chart": 19,
+            "score": 43
+        },
+        {
+            "date": "2010-08-07",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 58.0,
+            "peak_pos": 14,
+            "wks_on_chart": 20,
+            "score": 39
+        }
+    ],
+    "Find Your Love": [
+        {
+            "date": "2010-05-22",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 34,
+            "wks_on_chart": 1,
+            "score": 67
+        },
+        {
+            "date": "2010-05-29",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 20,
+            "wks_on_chart": 2,
+            "score": 81
+        },
+        {
+            "date": "2010-06-05",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 20,
+            "wks_on_chart": 3,
+            "score": 81
+        },
+        {
+            "date": "2010-06-12",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 15,
+            "wks_on_chart": 4,
+            "score": 86
+        },
+        {
+            "date": "2010-06-19",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 13,
+            "wks_on_chart": 5,
+            "score": 88
+        },
+        {
+            "date": "2010-06-26",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 10,
+            "wks_on_chart": 6,
+            "score": 91
+        },
+        {
+            "date": "2010-07-03",
+            "pos": 5,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 5,
+            "wks_on_chart": 7,
+            "score": 96
+        },
+        {
+            "date": "2010-07-10",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 5.0,
+            "peak_pos": 5,
+            "wks_on_chart": 8,
+            "score": 95
+        },
+        {
+            "date": "2010-07-17",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 5,
+            "wks_on_chart": 9,
+            "score": 93
+        },
+        {
+            "date": "2010-07-24",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 5,
+            "wks_on_chart": 10,
+            "score": 92
+        },
+        {
+            "date": "2010-07-31",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 5,
+            "wks_on_chart": 11,
+            "score": 92
+        },
+        {
+            "date": "2010-08-07",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 5,
+            "wks_on_chart": 12,
+            "score": 92
+        },
+        {
+            "date": "2010-08-14",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 5,
+            "wks_on_chart": 13,
+            "score": 89
+        },
+        {
+            "date": "2010-08-21",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 5,
+            "wks_on_chart": 14,
+            "score": 89
+        },
+        {
+            "date": "2010-08-28",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 5,
+            "wks_on_chart": 15,
+            "score": 88
+        },
+        {
+            "date": "2010-09-04",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 5,
+            "wks_on_chart": 16,
+            "score": 83
+        },
+        {
+            "date": "2010-09-11",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 5,
+            "wks_on_chart": 17,
+            "score": 80
+        },
+        {
+            "date": "2010-09-18",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 5,
+            "wks_on_chart": 18,
+            "score": 78
+        },
+        {
+            "date": "2010-09-25",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 5,
+            "wks_on_chart": 19,
+            "score": 76
+        },
+        {
+            "date": "2010-10-02",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 5,
+            "wks_on_chart": 20,
+            "score": 67
+        },
+        {
+            "date": "2010-10-09",
+            "pos": 47,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 5,
+            "wks_on_chart": 21,
+            "score": 54
+        }
+    ],
+    "9 AM In Dallas": [
+        {
+            "date": "2010-07-03",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 57,
+            "wks_on_chart": 1,
+            "score": 44
+        }
+    ],
+    "Marvins Room": [
+        {
+            "date": "2011-08-06",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 68,
+            "wks_on_chart": 1,
+            "score": 33
+        },
+        {
+            "date": "2011-08-13",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 21,
+            "wks_on_chart": 2,
+            "score": 80
+        },
+        {
+            "date": "2011-08-20",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 21,
+            "wks_on_chart": 3,
+            "score": 64
+        },
+        {
+            "date": "2011-08-27",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 21,
+            "wks_on_chart": 4,
+            "score": 61
+        },
+        {
+            "date": "2011-09-03",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 21,
+            "wks_on_chart": 5,
+            "score": 60
+        },
+        {
+            "date": "2011-09-10",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 21,
+            "wks_on_chart": 6,
+            "score": 60
+        },
+        {
+            "date": "2011-09-17",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 21,
+            "wks_on_chart": 7,
+            "score": 56
+        },
+        {
+            "date": "2011-09-24",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 21,
+            "wks_on_chart": 8,
+            "score": 56
+        },
+        {
+            "date": "2011-10-01",
+            "pos": 46,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 21,
+            "wks_on_chart": 9,
+            "score": 55
+        },
+        {
+            "date": "2011-10-08",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": 46.0,
+            "peak_pos": 21,
+            "wks_on_chart": 10,
+            "score": 52
+        },
+        {
+            "date": "2011-10-15",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": 49.0,
+            "peak_pos": 21,
+            "wks_on_chart": 11,
+            "score": 45
+        },
+        {
+            "date": "2011-10-22",
+            "pos": 59,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 21,
+            "wks_on_chart": 12,
+            "score": 42
+        },
+        {
+            "date": "2011-10-29",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 59.0,
+            "peak_pos": 21,
+            "wks_on_chart": 13,
+            "score": 40
+        },
+        {
+            "date": "2011-11-05",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 21,
+            "wks_on_chart": 14,
+            "score": 41
+        },
+        {
+            "date": "2011-11-12",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 21,
+            "wks_on_chart": 15,
+            "score": 38
+        },
+        {
+            "date": "2011-11-19",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 21,
+            "wks_on_chart": 16,
+            "score": 31
+        },
+        {
+            "date": "2011-11-26",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 21,
+            "wks_on_chart": 17,
+            "score": 20
+        },
+        {
+            "date": "2011-12-17",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 21,
+            "wks_on_chart": 18,
+            "score": 2
+        }
+    ],
+    "Headlines": [
+        {
+            "date": "2011-08-27",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 13,
+            "wks_on_chart": 1,
+            "score": 88
+        },
+        {
+            "date": "2011-09-03",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 13,
+            "wks_on_chart": 2,
+            "score": 80
+        },
+        {
+            "date": "2011-09-10",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 13,
+            "wks_on_chart": 3,
+            "score": 73
+        },
+        {
+            "date": "2011-09-17",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 13,
+            "wks_on_chart": 4,
+            "score": 72
+        },
+        {
+            "date": "2011-09-24",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 13,
+            "wks_on_chart": 5,
+            "score": 76
+        },
+        {
+            "date": "2011-10-01",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 13,
+            "wks_on_chart": 6,
+            "score": 78
+        },
+        {
+            "date": "2011-10-08",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 13,
+            "wks_on_chart": 7,
+            "score": 78
+        },
+        {
+            "date": "2011-10-15",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 13,
+            "wks_on_chart": 8,
+            "score": 79
+        },
+        {
+            "date": "2011-10-22",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 13,
+            "wks_on_chart": 9,
+            "score": 84
+        },
+        {
+            "date": "2011-10-29",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 13,
+            "wks_on_chart": 10,
+            "score": 86
+        },
+        {
+            "date": "2011-11-05",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 13,
+            "wks_on_chart": 11,
+            "score": 85
+        },
+        {
+            "date": "2011-11-12",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 13,
+            "wks_on_chart": 12,
+            "score": 88
+        },
+        {
+            "date": "2011-11-19",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 13,
+            "wks_on_chart": 13,
+            "score": 87
+        },
+        {
+            "date": "2011-11-26",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 13,
+            "wks_on_chart": 14,
+            "score": 85
+        },
+        {
+            "date": "2011-12-03",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 13,
+            "wks_on_chart": 15,
+            "score": 71
+        },
+        {
+            "date": "2011-12-10",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 13,
+            "wks_on_chart": 16,
+            "score": 87
+        },
+        {
+            "date": "2011-12-17",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 13,
+            "wks_on_chart": 17,
+            "score": 88
+        },
+        {
+            "date": "2011-12-24",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 13,
+            "wks_on_chart": 18,
+            "score": 85
+        },
+        {
+            "date": "2011-12-31",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 13,
+            "wks_on_chart": 19,
+            "score": 85
+        },
+        {
+            "date": "2012-01-07",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 13,
+            "wks_on_chart": 20,
+            "score": 86
+        },
+        {
+            "date": "2012-01-14",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 13,
+            "wks_on_chart": 21,
+            "score": 83
+        },
+        {
+            "date": "2012-01-21",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 13,
+            "wks_on_chart": 22,
+            "score": 83
+        },
+        {
+            "date": "2012-01-28",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 13,
+            "wks_on_chart": 23,
+            "score": 76
+        },
+        {
+            "date": "2012-02-04",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 13,
+            "wks_on_chart": 24,
+            "score": 68
+        },
+        {
+            "date": "2012-02-11",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 13,
+            "wks_on_chart": 25,
+            "score": 65
+        }
+    ],
+    "Hate Sleeping Alone": [
+        {
+            "date": "2011-12-03",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 67,
+            "wks_on_chart": 1,
+            "score": 34
+        }
+    ],
+    "Shot For Me": [
+        {
+            "date": "2011-12-03",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 100,
+            "wks_on_chart": 1,
+            "score": 1
+        }
+    ],
+    "Started From The Bottom": [
+        {
+            "date": "2013-02-23",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 63,
+            "wks_on_chart": 1,
+            "score": 38
+        },
+        {
+            "date": "2013-03-02",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 10,
+            "wks_on_chart": 2,
+            "score": 91
+        },
+        {
+            "date": "2013-03-09",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 6,
+            "wks_on_chart": 3,
+            "score": 95
+        },
+        {
+            "date": "2013-03-16",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 6,
+            "wks_on_chart": 4,
+            "score": 95
+        },
+        {
+            "date": "2013-03-23",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 6,
+            "wks_on_chart": 5,
+            "score": 94
+        },
+        {
+            "date": "2013-03-30",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 6,
+            "wks_on_chart": 6,
+            "score": 95
+        },
+        {
+            "date": "2013-04-06",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 6,
+            "wks_on_chart": 7,
+            "score": 94
+        },
+        {
+            "date": "2013-04-13",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 6,
+            "wks_on_chart": 8,
+            "score": 93
+        },
+        {
+            "date": "2013-04-20",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 6,
+            "wks_on_chart": 9,
+            "score": 92
+        },
+        {
+            "date": "2013-04-27",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 6,
+            "wks_on_chart": 10,
+            "score": 92
+        },
+        {
+            "date": "2013-05-04",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 6,
+            "wks_on_chart": 11,
+            "score": 91
+        },
+        {
+            "date": "2013-05-11",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 6,
+            "wks_on_chart": 12,
+            "score": 90
+        },
+        {
+            "date": "2013-05-18",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 6,
+            "wks_on_chart": 13,
+            "score": 90
+        },
+        {
+            "date": "2013-05-25",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 6,
+            "wks_on_chart": 14,
+            "score": 87
+        },
+        {
+            "date": "2013-06-01",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 6,
+            "wks_on_chart": 15,
+            "score": 83
+        },
+        {
+            "date": "2013-06-08",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 6,
+            "wks_on_chart": 16,
+            "score": 77
+        },
+        {
+            "date": "2013-06-15",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 6,
+            "wks_on_chart": 17,
+            "score": 75
+        },
+        {
+            "date": "2013-06-22",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 6,
+            "wks_on_chart": 18,
+            "score": 70
+        },
+        {
+            "date": "2013-06-29",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 6,
+            "wks_on_chart": 19,
+            "score": 66
+        },
+        {
+            "date": "2013-07-06",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 6,
+            "wks_on_chart": 20,
+            "score": 56
+        },
+        {
+            "date": "2013-07-13",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 6,
+            "wks_on_chart": 21,
+            "score": 57
+        },
+        {
+            "date": "2013-07-20",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 6,
+            "wks_on_chart": 22,
+            "score": 60
+        }
+    ],
+    "Wu-Tang Forever": [
+        {
+            "date": "2013-09-28",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 88,
+            "wks_on_chart": 1,
+            "score": 13
+        },
+        {
+            "date": "2013-10-05",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 52,
+            "wks_on_chart": 2,
+            "score": 49
+        },
+        {
+            "date": "2013-10-12",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 52,
+            "wks_on_chart": 3,
+            "score": 40
+        }
+    ],
+    "The Language": [
+        {
+            "date": "2013-10-12",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 51,
+            "wks_on_chart": 1,
+            "score": 50
+        },
+        {
+            "date": "2013-10-19",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 51.0,
+            "peak_pos": 51,
+            "wks_on_chart": 2,
+            "score": 22
+        },
+        {
+            "date": "2013-10-26",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 51,
+            "wks_on_chart": 3,
+            "score": 7
+        },
+        {
+            "date": "2013-11-30",
+            "pos": 89,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 51,
+            "wks_on_chart": 4,
+            "score": 12
+        },
+        {
+            "date": "2013-12-07",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 89.0,
+            "peak_pos": 51,
+            "wks_on_chart": 5,
+            "score": 9
+        },
+        {
+            "date": "2013-12-14",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 51,
+            "wks_on_chart": 6,
+            "score": 17
+        },
+        {
+            "date": "2013-12-21",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 84.0,
+            "peak_pos": 51,
+            "wks_on_chart": 7,
+            "score": 29
+        },
+        {
+            "date": "2013-12-28",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 51,
+            "wks_on_chart": 8,
+            "score": 31
+        },
+        {
+            "date": "2014-01-04",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 51,
+            "wks_on_chart": 9,
+            "score": 33
+        },
+        {
+            "date": "2014-01-11",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 51,
+            "wks_on_chart": 10,
+            "score": 38
+        },
+        {
+            "date": "2014-01-18",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 51,
+            "wks_on_chart": 11,
+            "score": 33
+        },
+        {
+            "date": "2014-01-25",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 51,
+            "wks_on_chart": 12,
+            "score": 33
+        },
+        {
+            "date": "2014-02-01",
+            "pos": 69,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 51,
+            "wks_on_chart": 13,
+            "score": 32
+        },
+        {
+            "date": "2014-02-08",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 69.0,
+            "peak_pos": 51,
+            "wks_on_chart": 14,
+            "score": 33
+        },
+        {
+            "date": "2014-02-15",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 51,
+            "wks_on_chart": 15,
+            "score": 28
+        },
+        {
+            "date": "2014-02-22",
+            "pos": 71,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 51,
+            "wks_on_chart": 16,
+            "score": 30
+        },
+        {
+            "date": "2014-03-01",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 71.0,
+            "peak_pos": 51,
+            "wks_on_chart": 17,
+            "score": 29
+        },
+        {
+            "date": "2014-03-08",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 51,
+            "wks_on_chart": 18,
+            "score": 29
+        },
+        {
+            "date": "2014-03-15",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 51,
+            "wks_on_chart": 19,
+            "score": 24
+        },
+        {
+            "date": "2014-03-22",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 51,
+            "wks_on_chart": 20,
+            "score": 19
+        }
+    ],
+    "Furthest Thing": [
+        {
+            "date": "2013-10-12",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 56,
+            "wks_on_chart": 1,
+            "score": 45
+        },
+        {
+            "date": "2013-10-19",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 56,
+            "wks_on_chart": 2,
+            "score": 17
+        }
+    ],
+    "Too Much": [
+        {
+            "date": "2013-10-12",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 64,
+            "wks_on_chart": 1,
+            "score": 37
+        }
+    ],
+    "Own It": [
+        {
+            "date": "2013-10-12",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 78,
+            "wks_on_chart": 1,
+            "score": 23
+        }
+    ],
+    "Tuscan Leather": [
+        {
+            "date": "2013-10-12",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 81,
+            "wks_on_chart": 1,
+            "score": 20
+        }
+    ],
+    "Come Thru": [
+        {
+            "date": "2013-10-12",
+            "pos": 87,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 87,
+            "wks_on_chart": 1,
+            "score": 14
+        }
+    ],
+    "Worst Behavior": [
+        {
+            "date": "2013-10-12",
+            "pos": 89,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 89,
+            "wks_on_chart": 1,
+            "score": 12
+        },
+        {
+            "date": "2014-01-04",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 89,
+            "wks_on_chart": 2,
+            "score": 7
+        },
+        {
+            "date": "2014-01-11",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 94.0,
+            "peak_pos": 89,
+            "wks_on_chart": 3,
+            "score": 6
+        },
+        {
+            "date": "2014-01-18",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 95.0,
+            "peak_pos": 89,
+            "wks_on_chart": 4,
+            "score": 2
+        },
+        {
+            "date": "2014-01-25",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 99.0,
+            "peak_pos": 89,
+            "wks_on_chart": 5,
+            "score": 2
+        },
+        {
+            "date": "2014-02-01",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": 99.0,
+            "peak_pos": 89,
+            "wks_on_chart": 6,
+            "score": 3
+        },
+        {
+            "date": "2014-02-08",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 98.0,
+            "peak_pos": 89,
+            "wks_on_chart": 7,
+            "score": 8
+        },
+        {
+            "date": "2014-02-15",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 93.0,
+            "peak_pos": 89,
+            "wks_on_chart": 8,
+            "score": 2
+        },
+        {
+            "date": "2014-02-22",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 99.0,
+            "peak_pos": 89,
+            "wks_on_chart": 9,
+            "score": 6
+        },
+        {
+            "date": "2014-03-01",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 95.0,
+            "peak_pos": 89,
+            "wks_on_chart": 10,
+            "score": 2
+        },
+        {
+            "date": "2014-03-08",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 99.0,
+            "peak_pos": 89,
+            "wks_on_chart": 11,
+            "score": 8
+        }
+    ],
+    "0 To 100 / The Catch Up": [
+        {
+            "date": "2014-08-09",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 63,
+            "wks_on_chart": 1,
+            "score": 38
+        },
+        {
+            "date": "2014-08-16",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 62,
+            "wks_on_chart": 2,
+            "score": 39
+        },
+        {
+            "date": "2014-08-23",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": 62.0,
+            "peak_pos": 58,
+            "wks_on_chart": 3,
+            "score": 43
+        },
+        {
+            "date": "2014-08-30",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 58.0,
+            "peak_pos": 53,
+            "wks_on_chart": 4,
+            "score": 48
+        },
+        {
+            "date": "2014-09-06",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 53,
+            "wks_on_chart": 5,
+            "score": 48
+        },
+        {
+            "date": "2014-09-13",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 44,
+            "wks_on_chart": 6,
+            "score": 57
+        },
+        {
+            "date": "2014-09-20",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 35,
+            "wks_on_chart": 7,
+            "score": 66
+        },
+        {
+            "date": "2014-09-27",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 8,
+            "score": 66
+        },
+        {
+            "date": "2014-10-04",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 9,
+            "score": 66
+        },
+        {
+            "date": "2014-10-11",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 10,
+            "score": 66
+        },
+        {
+            "date": "2014-10-18",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 11,
+            "score": 63
+        },
+        {
+            "date": "2014-10-25",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 35,
+            "wks_on_chart": 12,
+            "score": 64
+        },
+        {
+            "date": "2014-11-01",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 35,
+            "wks_on_chart": 13,
+            "score": 65
+        },
+        {
+            "date": "2014-11-08",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 35,
+            "wks_on_chart": 14,
+            "score": 60
+        },
+        {
+            "date": "2014-11-15",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 35,
+            "wks_on_chart": 15,
+            "score": 57
+        },
+        {
+            "date": "2014-11-22",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 35,
+            "wks_on_chart": 16,
+            "score": 49
+        },
+        {
+            "date": "2014-11-29",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 35,
+            "wks_on_chart": 17,
+            "score": 48
+        },
+        {
+            "date": "2014-12-06",
+            "pos": 59,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 35,
+            "wks_on_chart": 18,
+            "score": 42
+        },
+        {
+            "date": "2014-12-13",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": 59.0,
+            "peak_pos": 35,
+            "wks_on_chart": 19,
+            "score": 38
+        },
+        {
+            "date": "2014-12-20",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 35,
+            "wks_on_chart": 20,
+            "score": 37
+        }
+    ],
+    "Energy": [
+        {
+            "date": "2015-02-28",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 49,
+            "wks_on_chart": 1,
+            "score": 52
+        },
+        {
+            "date": "2015-03-07",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 49.0,
+            "peak_pos": 26,
+            "wks_on_chart": 2,
+            "score": 75
+        },
+        {
+            "date": "2015-03-14",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 26,
+            "wks_on_chart": 3,
+            "score": 61
+        },
+        {
+            "date": "2015-03-21",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 26,
+            "wks_on_chart": 4,
+            "score": 50
+        },
+        {
+            "date": "2015-03-28",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 51.0,
+            "peak_pos": 26,
+            "wks_on_chart": 5,
+            "score": 47
+        },
+        {
+            "date": "2015-04-04",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 26,
+            "wks_on_chart": 6,
+            "score": 49
+        },
+        {
+            "date": "2015-04-11",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 26,
+            "wks_on_chart": 7,
+            "score": 40
+        },
+        {
+            "date": "2015-04-18",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 26,
+            "wks_on_chart": 8,
+            "score": 33
+        },
+        {
+            "date": "2015-04-25",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 26,
+            "wks_on_chart": 9,
+            "score": 41
+        },
+        {
+            "date": "2015-05-02",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 26,
+            "wks_on_chart": 10,
+            "score": 34
+        },
+        {
+            "date": "2015-05-09",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 26,
+            "wks_on_chart": 11,
+            "score": 33
+        },
+        {
+            "date": "2015-05-16",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 26,
+            "wks_on_chart": 12,
+            "score": 34
+        },
+        {
+            "date": "2015-05-23",
+            "pos": 71,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 26,
+            "wks_on_chart": 13,
+            "score": 30
+        },
+        {
+            "date": "2015-05-30",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 71.0,
+            "peak_pos": 26,
+            "wks_on_chart": 14,
+            "score": 23
+        },
+        {
+            "date": "2015-06-06",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 78.0,
+            "peak_pos": 26,
+            "wks_on_chart": 15,
+            "score": 19
+        },
+        {
+            "date": "2015-06-13",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": 82.0,
+            "peak_pos": 26,
+            "wks_on_chart": 16,
+            "score": 15
+        },
+        {
+            "date": "2015-06-20",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": 86.0,
+            "peak_pos": 26,
+            "wks_on_chart": 17,
+            "score": 15
+        },
+        {
+            "date": "2015-06-27",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 86.0,
+            "peak_pos": 26,
+            "wks_on_chart": 18,
+            "score": 18
+        },
+        {
+            "date": "2015-07-04",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 83.0,
+            "peak_pos": 26,
+            "wks_on_chart": 19,
+            "score": 22
+        },
+        {
+            "date": "2015-07-11",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 26,
+            "wks_on_chart": 20,
+            "score": 19
+        }
+    ],
+    "Legend": [
+        {
+            "date": "2015-02-28",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 86,
+            "wks_on_chart": 1,
+            "score": 15
+        },
+        {
+            "date": "2015-03-07",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 86.0,
+            "peak_pos": 52,
+            "wks_on_chart": 2,
+            "score": 49
+        },
+        {
+            "date": "2015-03-14",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 52,
+            "wks_on_chart": 3,
+            "score": 44
+        },
+        {
+            "date": "2015-03-21",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 52,
+            "wks_on_chart": 4,
+            "score": 41
+        },
+        {
+            "date": "2015-03-28",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 52,
+            "wks_on_chart": 5,
+            "score": 39
+        },
+        {
+            "date": "2015-04-04",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": 62.0,
+            "peak_pos": 52,
+            "wks_on_chart": 6,
+            "score": 38
+        },
+        {
+            "date": "2015-04-11",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 63.0,
+            "peak_pos": 52,
+            "wks_on_chart": 7,
+            "score": 36
+        },
+        {
+            "date": "2015-04-18",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 52,
+            "wks_on_chart": 8,
+            "score": 27
+        },
+        {
+            "date": "2015-04-25",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 52,
+            "wks_on_chart": 9,
+            "score": 28
+        },
+        {
+            "date": "2015-05-02",
+            "pos": 90,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 52,
+            "wks_on_chart": 10,
+            "score": 11
+        },
+        {
+            "date": "2015-05-09",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 90.0,
+            "peak_pos": 52,
+            "wks_on_chart": 11,
+            "score": 7
+        },
+        {
+            "date": "2015-05-16",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 94.0,
+            "peak_pos": 52,
+            "wks_on_chart": 12,
+            "score": 6
+        }
+    ],
+    "10 Bands": [
+        {
+            "date": "2015-02-28",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 88,
+            "wks_on_chart": 1,
+            "score": 13
+        },
+        {
+            "date": "2015-03-07",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 58,
+            "wks_on_chart": 2,
+            "score": 43
+        },
+        {
+            "date": "2015-03-14",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 58.0,
+            "peak_pos": 58,
+            "wks_on_chart": 3,
+            "score": 28
+        },
+        {
+            "date": "2015-03-21",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 58,
+            "wks_on_chart": 4,
+            "score": 26
+        },
+        {
+            "date": "2015-03-28",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 58,
+            "wks_on_chart": 5,
+            "score": 23
+        },
+        {
+            "date": "2015-04-04",
+            "pos": 76,
+            "artist": "Drake",
+            "last_week": 78.0,
+            "peak_pos": 58,
+            "wks_on_chart": 6,
+            "score": 25
+        },
+        {
+            "date": "2015-04-11",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 76.0,
+            "peak_pos": 58,
+            "wks_on_chart": 7,
+            "score": 27
+        },
+        {
+            "date": "2015-04-18",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 58,
+            "wks_on_chart": 8,
+            "score": 19
+        },
+        {
+            "date": "2015-04-25",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 82.0,
+            "peak_pos": 58,
+            "wks_on_chart": 9,
+            "score": 26
+        },
+        {
+            "date": "2015-05-02",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 58,
+            "wks_on_chart": 10,
+            "score": 19
+        },
+        {
+            "date": "2015-05-09",
+            "pos": 89,
+            "artist": "Drake",
+            "last_week": 82.0,
+            "peak_pos": 58,
+            "wks_on_chart": 11,
+            "score": 12
+        },
+        {
+            "date": "2015-05-16",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 89.0,
+            "peak_pos": 58,
+            "wks_on_chart": 12,
+            "score": 9
+        },
+        {
+            "date": "2015-05-23",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 58,
+            "wks_on_chart": 13,
+            "score": 1
+        }
+    ],
+    "Know Yourself": [
+        {
+            "date": "2015-03-07",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 70,
+            "wks_on_chart": 1,
+            "score": 31
+        },
+        {
+            "date": "2015-03-14",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 70,
+            "wks_on_chart": 2,
+            "score": 26
+        },
+        {
+            "date": "2015-03-21",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 65,
+            "wks_on_chart": 3,
+            "score": 36
+        },
+        {
+            "date": "2015-03-28",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 65,
+            "wks_on_chart": 4,
+            "score": 35
+        },
+        {
+            "date": "2015-04-04",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 57,
+            "wks_on_chart": 5,
+            "score": 44
+        },
+        {
+            "date": "2015-04-11",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 57,
+            "wks_on_chart": 6,
+            "score": 44
+        },
+        {
+            "date": "2015-04-18",
+            "pos": 59,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 57,
+            "wks_on_chart": 7,
+            "score": 42
+        },
+        {
+            "date": "2015-04-25",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 59.0,
+            "peak_pos": 53,
+            "wks_on_chart": 8,
+            "score": 48
+        },
+        {
+            "date": "2015-05-02",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 53,
+            "wks_on_chart": 9,
+            "score": 44
+        },
+        {
+            "date": "2015-05-09",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 53,
+            "wks_on_chart": 10,
+            "score": 40
+        },
+        {
+            "date": "2015-05-16",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 53,
+            "wks_on_chart": 11,
+            "score": 39
+        },
+        {
+            "date": "2015-05-23",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 62.0,
+            "peak_pos": 53,
+            "wks_on_chart": 12,
+            "score": 33
+        },
+        {
+            "date": "2015-05-30",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 53,
+            "wks_on_chart": 13,
+            "score": 26
+        },
+        {
+            "date": "2015-06-06",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 53,
+            "wks_on_chart": 14,
+            "score": 22
+        },
+        {
+            "date": "2015-06-13",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 53,
+            "wks_on_chart": 15,
+            "score": 19
+        },
+        {
+            "date": "2015-06-20",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 82.0,
+            "peak_pos": 53,
+            "wks_on_chart": 16,
+            "score": 21
+        },
+        {
+            "date": "2015-06-27",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 80.0,
+            "peak_pos": 53,
+            "wks_on_chart": 17,
+            "score": 21
+        },
+        {
+            "date": "2015-07-04",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": 80.0,
+            "peak_pos": 53,
+            "wks_on_chart": 18,
+            "score": 15
+        },
+        {
+            "date": "2015-07-11",
+            "pos": 87,
+            "artist": "Drake",
+            "last_week": 86.0,
+            "peak_pos": 53,
+            "wks_on_chart": 19,
+            "score": 14
+        },
+        {
+            "date": "2015-07-18",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 87.0,
+            "peak_pos": 53,
+            "wks_on_chart": 20,
+            "score": 7
+        }
+    ],
+    "No Tellin'": [
+        {
+            "date": "2015-03-07",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 81,
+            "wks_on_chart": 1,
+            "score": 20
+        },
+        {
+            "date": "2015-03-14",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": 81.0,
+            "peak_pos": 81,
+            "wks_on_chart": 2,
+            "score": 1
+        }
+    ],
+    "6 God": [
+        {
+            "date": "2015-03-07",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 83,
+            "wks_on_chart": 1,
+            "score": 18
+        }
+    ],
+    "Now & Forever": [
+        {
+            "date": "2015-03-07",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 95,
+            "wks_on_chart": 1,
+            "score": 6
+        }
+    ],
+    "6 Man": [
+        {
+            "date": "2015-03-07",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 97,
+            "wks_on_chart": 1,
+            "score": 4
+        }
+    ],
+    "Back To Back": [
+        {
+            "date": "2015-08-22",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 21,
+            "wks_on_chart": 1,
+            "score": 80
+        },
+        {
+            "date": "2015-08-29",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 21,
+            "wks_on_chart": 2,
+            "score": 69
+        },
+        {
+            "date": "2015-09-05",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 21,
+            "wks_on_chart": 3,
+            "score": 66
+        },
+        {
+            "date": "2015-09-12",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 21,
+            "wks_on_chart": 4,
+            "score": 62
+        },
+        {
+            "date": "2015-09-19",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": 39.0,
+            "peak_pos": 21,
+            "wks_on_chart": 5,
+            "score": 62
+        },
+        {
+            "date": "2015-09-26",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": 39.0,
+            "peak_pos": 21,
+            "wks_on_chart": 6,
+            "score": 62
+        },
+        {
+            "date": "2015-10-03",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": 39.0,
+            "peak_pos": 21,
+            "wks_on_chart": 7,
+            "score": 68
+        },
+        {
+            "date": "2015-10-10",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 21,
+            "wks_on_chart": 8,
+            "score": 67
+        },
+        {
+            "date": "2015-10-17",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 21,
+            "wks_on_chart": 9,
+            "score": 65
+        },
+        {
+            "date": "2015-10-24",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 21,
+            "wks_on_chart": 10,
+            "score": 60
+        },
+        {
+            "date": "2015-10-31",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 21,
+            "wks_on_chart": 11,
+            "score": 63
+        },
+        {
+            "date": "2015-11-07",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 21,
+            "wks_on_chart": 12,
+            "score": 61
+        },
+        {
+            "date": "2015-11-14",
+            "pos": 43,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 21,
+            "wks_on_chart": 13,
+            "score": 58
+        },
+        {
+            "date": "2015-11-21",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 43.0,
+            "peak_pos": 21,
+            "wks_on_chart": 14,
+            "score": 49
+        },
+        {
+            "date": "2015-11-28",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 21,
+            "wks_on_chart": 15,
+            "score": 45
+        },
+        {
+            "date": "2015-12-05",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 21,
+            "wks_on_chart": 16,
+            "score": 33
+        },
+        {
+            "date": "2015-12-12",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 21,
+            "wks_on_chart": 17,
+            "score": 34
+        },
+        {
+            "date": "2015-12-19",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 21,
+            "wks_on_chart": 18,
+            "score": 28
+        },
+        {
+            "date": "2015-12-26",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 21,
+            "wks_on_chart": 19,
+            "score": 35
+        },
+        {
+            "date": "2016-01-02",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 21,
+            "wks_on_chart": 20,
+            "score": 27
+        }
+    ],
+    "Hotline Bling": [
+        {
+            "date": "2015-08-22",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 66,
+            "wks_on_chart": 1,
+            "score": 35
+        },
+        {
+            "date": "2015-08-29",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 57,
+            "wks_on_chart": 2,
+            "score": 44
+        },
+        {
+            "date": "2015-09-05",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 34,
+            "wks_on_chart": 3,
+            "score": 67
+        },
+        {
+            "date": "2015-09-12",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 29,
+            "wks_on_chart": 4,
+            "score": 72
+        },
+        {
+            "date": "2015-09-19",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 22,
+            "wks_on_chart": 5,
+            "score": 79
+        },
+        {
+            "date": "2015-09-26",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 16,
+            "wks_on_chart": 6,
+            "score": 85
+        },
+        {
+            "date": "2015-10-03",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 9,
+            "wks_on_chart": 7,
+            "score": 92
+        },
+        {
+            "date": "2015-10-10",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 4,
+            "wks_on_chart": 8,
+            "score": 97
+        },
+        {
+            "date": "2015-10-17",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 3,
+            "wks_on_chart": 9,
+            "score": 98
+        },
+        {
+            "date": "2015-10-24",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 10,
+            "score": 99
+        },
+        {
+            "date": "2015-10-31",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 11,
+            "score": 99
+        },
+        {
+            "date": "2015-11-07",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 12,
+            "score": 99
+        },
+        {
+            "date": "2015-11-14",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 13,
+            "score": 98
+        },
+        {
+            "date": "2015-11-21",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 14,
+            "score": 99
+        },
+        {
+            "date": "2015-11-28",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 15,
+            "score": 99
+        },
+        {
+            "date": "2015-12-05",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 16,
+            "score": 98
+        },
+        {
+            "date": "2015-12-12",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 17,
+            "score": 98
+        },
+        {
+            "date": "2015-12-19",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 18,
+            "score": 98
+        },
+        {
+            "date": "2015-12-26",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 19,
+            "score": 98
+        },
+        {
+            "date": "2016-01-02",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 20,
+            "score": 98
+        },
+        {
+            "date": "2016-01-09",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 2,
+            "wks_on_chart": 21,
+            "score": 97
+        },
+        {
+            "date": "2016-01-16",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 2,
+            "wks_on_chart": 22,
+            "score": 97
+        },
+        {
+            "date": "2016-01-23",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 2,
+            "wks_on_chart": 23,
+            "score": 97
+        },
+        {
+            "date": "2016-01-30",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 2,
+            "wks_on_chart": 24,
+            "score": 94
+        },
+        {
+            "date": "2016-02-06",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 2,
+            "wks_on_chart": 25,
+            "score": 92
+        },
+        {
+            "date": "2016-02-13",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 2,
+            "wks_on_chart": 26,
+            "score": 87
+        },
+        {
+            "date": "2016-02-20",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 2,
+            "wks_on_chart": 27,
+            "score": 83
+        },
+        {
+            "date": "2016-02-27",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 2,
+            "wks_on_chart": 28,
+            "score": 85
+        },
+        {
+            "date": "2016-03-05",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 2,
+            "wks_on_chart": 29,
+            "score": 82
+        },
+        {
+            "date": "2016-03-12",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 2,
+            "wks_on_chart": 30,
+            "score": 80
+        },
+        {
+            "date": "2016-03-19",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 2,
+            "wks_on_chart": 31,
+            "score": 77
+        },
+        {
+            "date": "2016-03-26",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 2,
+            "wks_on_chart": 32,
+            "score": 74
+        },
+        {
+            "date": "2016-04-02",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 2,
+            "wks_on_chart": 33,
+            "score": 73
+        },
+        {
+            "date": "2016-04-09",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 2,
+            "wks_on_chart": 34,
+            "score": 67
+        },
+        {
+            "date": "2016-04-16",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 2,
+            "wks_on_chart": 35,
+            "score": 63
+        },
+        {
+            "date": "2016-04-23",
+            "pos": 50,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 2,
+            "wks_on_chart": 36,
+            "score": 51
+        }
+    ],
+    "Charged Up": [
+        {
+            "date": "2015-08-22",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 78,
+            "wks_on_chart": 1,
+            "score": 23
+        }
+    ],
+    "Right Hand": [
+        {
+            "date": "2015-10-03",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 66,
+            "wks_on_chart": 1,
+            "score": 35
+        },
+        {
+            "date": "2015-10-10",
+            "pos": 59,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 59,
+            "wks_on_chart": 2,
+            "score": 42
+        },
+        {
+            "date": "2015-10-17",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": 59.0,
+            "peak_pos": 58,
+            "wks_on_chart": 3,
+            "score": 43
+        },
+        {
+            "date": "2015-10-24",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 58.0,
+            "peak_pos": 58,
+            "wks_on_chart": 4,
+            "score": 36
+        },
+        {
+            "date": "2015-10-31",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 58,
+            "wks_on_chart": 5,
+            "score": 29
+        },
+        {
+            "date": "2015-11-07",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 58,
+            "wks_on_chart": 6,
+            "score": 33
+        },
+        {
+            "date": "2015-11-14",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 58,
+            "wks_on_chart": 7,
+            "score": 34
+        },
+        {
+            "date": "2015-11-21",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 58,
+            "wks_on_chart": 8,
+            "score": 27
+        },
+        {
+            "date": "2015-11-28",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 58,
+            "wks_on_chart": 9,
+            "score": 23
+        },
+        {
+            "date": "2015-12-05",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 78.0,
+            "peak_pos": 58,
+            "wks_on_chart": 10,
+            "score": 10
+        },
+        {
+            "date": "2015-12-12",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 91.0,
+            "peak_pos": 58,
+            "wks_on_chart": 11,
+            "score": 9
+        },
+        {
+            "date": "2015-12-19",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 58,
+            "wks_on_chart": 12,
+            "score": 8
+        },
+        {
+            "date": "2015-12-26",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": 93.0,
+            "peak_pos": 58,
+            "wks_on_chart": 13,
+            "score": 13
+        },
+        {
+            "date": "2016-01-02",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 58,
+            "wks_on_chart": 14,
+            "score": 7
+        },
+        {
+            "date": "2016-01-09",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 94.0,
+            "peak_pos": 58,
+            "wks_on_chart": 15,
+            "score": 22
+        },
+        {
+            "date": "2016-01-16",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 58,
+            "wks_on_chart": 16,
+            "score": 35
+        },
+        {
+            "date": "2016-01-23",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 58,
+            "wks_on_chart": 17,
+            "score": 23
+        },
+        {
+            "date": "2016-01-30",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 78.0,
+            "peak_pos": 58,
+            "wks_on_chart": 18,
+            "score": 10
+        },
+        {
+            "date": "2016-02-06",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 91.0,
+            "peak_pos": 58,
+            "wks_on_chart": 19,
+            "score": 7
+        }
+    ],
+    "30 For 30 Freestyle": [
+        {
+            "date": "2015-10-10",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 88,
+            "wks_on_chart": 1,
+            "score": 13
+        },
+        {
+            "date": "2015-10-17",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 88,
+            "wks_on_chart": 2,
+            "score": 9
+        }
+    ],
+    "Summer Sixteen": [
+        {
+            "date": "2016-02-20",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 6,
+            "wks_on_chart": 1,
+            "score": 95
+        },
+        {
+            "date": "2016-02-27",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 6,
+            "wks_on_chart": 2,
+            "score": 75
+        },
+        {
+            "date": "2016-03-05",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 6,
+            "wks_on_chart": 3,
+            "score": 70
+        },
+        {
+            "date": "2016-03-12",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 6,
+            "wks_on_chart": 4,
+            "score": 69
+        },
+        {
+            "date": "2016-03-19",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 6,
+            "wks_on_chart": 5,
+            "score": 71
+        },
+        {
+            "date": "2016-03-26",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 6,
+            "wks_on_chart": 6,
+            "score": 72
+        },
+        {
+            "date": "2016-04-02",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 6,
+            "wks_on_chart": 7,
+            "score": 70
+        },
+        {
+            "date": "2016-04-09",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 6,
+            "wks_on_chart": 8,
+            "score": 68
+        },
+        {
+            "date": "2016-04-16",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 6,
+            "wks_on_chart": 9,
+            "score": 65
+        },
+        {
+            "date": "2016-04-23",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 6,
+            "wks_on_chart": 10,
+            "score": 56
+        },
+        {
+            "date": "2016-04-30",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 6,
+            "wks_on_chart": 11,
+            "score": 50
+        },
+        {
+            "date": "2016-05-07",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 51.0,
+            "peak_pos": 6,
+            "wks_on_chart": 12,
+            "score": 35
+        },
+        {
+            "date": "2016-05-14",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 6,
+            "wks_on_chart": 13,
+            "score": 28
+        },
+        {
+            "date": "2016-05-21",
+            "pos": 89,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 6,
+            "wks_on_chart": 14,
+            "score": 12
+        }
+    ],
+    "Hype": [
+        {
+            "date": "2016-05-21",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 33,
+            "wks_on_chart": 1,
+            "score": 68
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 33,
+            "wks_on_chart": 2,
+            "score": 52
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 49.0,
+            "peak_pos": 33,
+            "wks_on_chart": 3,
+            "score": 66
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 33,
+            "wks_on_chart": 4,
+            "score": 56
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 33,
+            "wks_on_chart": 5,
+            "score": 47
+        },
+        {
+            "date": "2016-06-25",
+            "pos": 69,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 33,
+            "wks_on_chart": 6,
+            "score": 32
+        },
+        {
+            "date": "2016-07-02",
+            "pos": 69,
+            "artist": "Drake",
+            "last_week": 69.0,
+            "peak_pos": 33,
+            "wks_on_chart": 7,
+            "score": 32
+        },
+        {
+            "date": "2016-07-09",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": 69.0,
+            "peak_pos": 33,
+            "wks_on_chart": 8,
+            "score": 24
+        },
+        {
+            "date": "2016-07-16",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 33,
+            "wks_on_chart": 9,
+            "score": 17
+        },
+        {
+            "date": "2016-07-23",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": 84.0,
+            "peak_pos": 33,
+            "wks_on_chart": 10,
+            "score": 4
+        }
+    ],
+    "Controlla": [
+        {
+            "date": "2016-05-21",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 34,
+            "wks_on_chart": 1,
+            "score": 67
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 34,
+            "wks_on_chart": 2,
+            "score": 66
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 22,
+            "wks_on_chart": 3,
+            "score": 79
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 21,
+            "wks_on_chart": 4,
+            "score": 80
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 21,
+            "wks_on_chart": 5,
+            "score": 76
+        },
+        {
+            "date": "2016-06-25",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 21,
+            "wks_on_chart": 6,
+            "score": 77
+        },
+        {
+            "date": "2016-07-02",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 21,
+            "wks_on_chart": 7,
+            "score": 78
+        },
+        {
+            "date": "2016-07-09",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 20,
+            "wks_on_chart": 8,
+            "score": 81
+        },
+        {
+            "date": "2016-07-16",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 19,
+            "wks_on_chart": 9,
+            "score": 82
+        },
+        {
+            "date": "2016-07-23",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 18,
+            "wks_on_chart": 10,
+            "score": 83
+        },
+        {
+            "date": "2016-07-30",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 16,
+            "wks_on_chart": 11,
+            "score": 85
+        },
+        {
+            "date": "2016-08-06",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 16,
+            "wks_on_chart": 12,
+            "score": 83
+        },
+        {
+            "date": "2016-08-13",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 16,
+            "wks_on_chart": 13,
+            "score": 83
+        },
+        {
+            "date": "2016-08-20",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 16,
+            "wks_on_chart": 14,
+            "score": 80
+        },
+        {
+            "date": "2016-08-27",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 16,
+            "wks_on_chart": 15,
+            "score": 79
+        },
+        {
+            "date": "2016-09-03",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 16,
+            "wks_on_chart": 16,
+            "score": 79
+        },
+        {
+            "date": "2016-09-10",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 16,
+            "wks_on_chart": 17,
+            "score": 77
+        },
+        {
+            "date": "2016-09-17",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 16,
+            "wks_on_chart": 18,
+            "score": 75
+        },
+        {
+            "date": "2016-09-24",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 16,
+            "wks_on_chart": 19,
+            "score": 74
+        },
+        {
+            "date": "2016-10-01",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 16,
+            "wks_on_chart": 20,
+            "score": 71
+        },
+        {
+            "date": "2016-10-08",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 16,
+            "wks_on_chart": 21,
+            "score": 68
+        },
+        {
+            "date": "2016-10-15",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 16,
+            "wks_on_chart": 22,
+            "score": 69
+        },
+        {
+            "date": "2016-10-22",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 16,
+            "wks_on_chart": 23,
+            "score": 65
+        },
+        {
+            "date": "2016-10-29",
+            "pos": 43,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 16,
+            "wks_on_chart": 24,
+            "score": 58
+        },
+        {
+            "date": "2016-11-05",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 43.0,
+            "peak_pos": 16,
+            "wks_on_chart": 25,
+            "score": 56
+        },
+        {
+            "date": "2016-11-12",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 16,
+            "wks_on_chart": 26,
+            "score": 52
+        }
+    ],
+    "Still Here": [
+        {
+            "date": "2016-05-21",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 40,
+            "wks_on_chart": 1,
+            "score": 61
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 40,
+            "wks_on_chart": 2,
+            "score": 45
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 47,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 40,
+            "wks_on_chart": 3,
+            "score": 54
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 55,
+            "artist": "Drake",
+            "last_week": 47.0,
+            "peak_pos": 40,
+            "wks_on_chart": 4,
+            "score": 46
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 55.0,
+            "peak_pos": 40,
+            "wks_on_chart": 5,
+            "score": 40
+        },
+        {
+            "date": "2016-06-25",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 40,
+            "wks_on_chart": 6,
+            "score": 28
+        },
+        {
+            "date": "2016-07-02",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 40,
+            "wks_on_chart": 7,
+            "score": 22
+        },
+        {
+            "date": "2016-07-09",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 40,
+            "wks_on_chart": 8,
+            "score": 10
+        },
+        {
+            "date": "2016-07-16",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 91.0,
+            "peak_pos": 40,
+            "wks_on_chart": 9,
+            "score": 8
+        },
+        {
+            "date": "2016-07-23",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 93.0,
+            "peak_pos": 40,
+            "wks_on_chart": 10,
+            "score": 6
+        }
+    ],
+    "U With Me?": [
+        {
+            "date": "2016-05-21",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 44,
+            "wks_on_chart": 1,
+            "score": 57
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 44,
+            "wks_on_chart": 2,
+            "score": 21
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 80.0,
+            "peak_pos": 44,
+            "wks_on_chart": 3,
+            "score": 33
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 44,
+            "wks_on_chart": 4,
+            "score": 19
+        }
+    ],
+    "9": [
+        {
+            "date": "2016-05-21",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 45,
+            "wks_on_chart": 1,
+            "score": 56
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 45,
+            "wks_on_chart": 2,
+            "score": 28
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 45,
+            "wks_on_chart": 3,
+            "score": 41
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 45,
+            "wks_on_chart": 4,
+            "score": 29
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 87,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 45,
+            "wks_on_chart": 5,
+            "score": 14
+        }
+    ],
+    "Childs Play": [
+        {
+            "date": "2016-05-21",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 49,
+            "wks_on_chart": 1,
+            "score": 52
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 49.0,
+            "peak_pos": 49,
+            "wks_on_chart": 2,
+            "score": 35
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 55,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 49,
+            "wks_on_chart": 3,
+            "score": 46
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 55.0,
+            "peak_pos": 49,
+            "wks_on_chart": 4,
+            "score": 44
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 49,
+            "wks_on_chart": 5,
+            "score": 41
+        },
+        {
+            "date": "2016-06-25",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 49,
+            "wks_on_chart": 6,
+            "score": 29
+        },
+        {
+            "date": "2016-07-02",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 72.0,
+            "peak_pos": 49,
+            "wks_on_chart": 7,
+            "score": 28
+        },
+        {
+            "date": "2016-07-09",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 49,
+            "wks_on_chart": 8,
+            "score": 20
+        },
+        {
+            "date": "2016-07-16",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": 81.0,
+            "peak_pos": 49,
+            "wks_on_chart": 9,
+            "score": 13
+        },
+        {
+            "date": "2016-07-23",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 49,
+            "wks_on_chart": 10,
+            "score": 9
+        },
+        {
+            "date": "2016-07-30",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 49,
+            "wks_on_chart": 11,
+            "score": 8
+        },
+        {
+            "date": "2016-08-06",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 93.0,
+            "peak_pos": 49,
+            "wks_on_chart": 12,
+            "score": 6
+        },
+        {
+            "date": "2016-09-24",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 49,
+            "wks_on_chart": 13,
+            "score": 24
+        },
+        {
+            "date": "2016-10-01",
+            "pos": 87,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 49,
+            "wks_on_chart": 14,
+            "score": 14
+        }
+    ],
+    "Feel No Ways": [
+        {
+            "date": "2016-05-21",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 53,
+            "wks_on_chart": 1,
+            "score": 48
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 53,
+            "wks_on_chart": 2,
+            "score": 27
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 53,
+            "wks_on_chart": 3,
+            "score": 40
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 53,
+            "wks_on_chart": 4,
+            "score": 36
+        },
+        {
+            "date": "2016-06-18",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 53,
+            "wks_on_chart": 5,
+            "score": 21
+        },
+        {
+            "date": "2016-06-25",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 80.0,
+            "peak_pos": 53,
+            "wks_on_chart": 6,
+            "score": 10
+        }
+    ],
+    "Weston Road Flows": [
+        {
+            "date": "2016-05-21",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 54,
+            "wks_on_chart": 1,
+            "score": 47
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 54,
+            "wks_on_chart": 2,
+            "score": 17
+        }
+    ],
+    "Redemption": [
+        {
+            "date": "2016-05-21",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 61,
+            "wks_on_chart": 1,
+            "score": 40
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 61,
+            "wks_on_chart": 2,
+            "score": 18
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 83.0,
+            "peak_pos": 61,
+            "wks_on_chart": 3,
+            "score": 6
+        }
+    ],
+    "Keep The Family Close": [
+        {
+            "date": "2016-05-21",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 68,
+            "wks_on_chart": 1,
+            "score": 33
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 85,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 68,
+            "wks_on_chart": 2,
+            "score": 16
+        }
+    ],
+    "Fire & Desire": [
+        {
+            "date": "2016-05-21",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 75,
+            "wks_on_chart": 1,
+            "score": 26
+        },
+        {
+            "date": "2016-05-28",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 75,
+            "wks_on_chart": 2,
+            "score": 9
+        },
+        {
+            "date": "2016-06-04",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 75,
+            "wks_on_chart": 3,
+            "score": 26
+        },
+        {
+            "date": "2016-06-11",
+            "pos": 85,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 75,
+            "wks_on_chart": 4,
+            "score": 16
+        }
+    ],
+    "Views": [
+        {
+            "date": "2016-05-21",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 86,
+            "wks_on_chart": 1,
+            "score": 15
+        }
+    ],
+    "Fake Love": [
+        {
+            "date": "2016-11-12",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 24,
+            "wks_on_chart": 1,
+            "score": 77
+        },
+        {
+            "date": "2016-11-19",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 10,
+            "wks_on_chart": 2,
+            "score": 91
+        },
+        {
+            "date": "2016-11-26",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 10,
+            "wks_on_chart": 3,
+            "score": 84
+        },
+        {
+            "date": "2016-12-03",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 10,
+            "wks_on_chart": 4,
+            "score": 87
+        },
+        {
+            "date": "2016-12-10",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 10,
+            "wks_on_chart": 5,
+            "score": 90
+        },
+        {
+            "date": "2016-12-17",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 10,
+            "wks_on_chart": 6,
+            "score": 90
+        },
+        {
+            "date": "2016-12-24",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 10,
+            "wks_on_chart": 7,
+            "score": 90
+        },
+        {
+            "date": "2016-12-31",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 10,
+            "wks_on_chart": 8,
+            "score": 89
+        },
+        {
+            "date": "2017-01-07",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 10,
+            "wks_on_chart": 9,
+            "score": 91
+        },
+        {
+            "date": "2017-01-14",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 9,
+            "wks_on_chart": 10,
+            "score": 92
+        },
+        {
+            "date": "2017-01-21",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 9,
+            "wks_on_chart": 11,
+            "score": 92
+        },
+        {
+            "date": "2017-01-28",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 9,
+            "wks_on_chart": 12,
+            "score": 90
+        },
+        {
+            "date": "2017-02-04",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 9,
+            "wks_on_chart": 13,
+            "score": 90
+        },
+        {
+            "date": "2017-02-11",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 9,
+            "wks_on_chart": 14,
+            "score": 92
+        },
+        {
+            "date": "2017-02-18",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 8,
+            "wks_on_chart": 15,
+            "score": 93
+        },
+        {
+            "date": "2017-02-25",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 8,
+            "wks_on_chart": 16,
+            "score": 90
+        },
+        {
+            "date": "2017-03-04",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 8,
+            "wks_on_chart": 17,
+            "score": 89
+        },
+        {
+            "date": "2017-03-11",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 8,
+            "wks_on_chart": 18,
+            "score": 88
+        },
+        {
+            "date": "2017-03-18",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 8,
+            "wks_on_chart": 19,
+            "score": 85
+        },
+        {
+            "date": "2017-03-25",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 8,
+            "wks_on_chart": 20,
+            "score": 78
+        },
+        {
+            "date": "2017-04-01",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 8,
+            "wks_on_chart": 21,
+            "score": 70
+        },
+        {
+            "date": "2017-04-08",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 8,
+            "wks_on_chart": 22,
+            "score": 86
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 8,
+            "wks_on_chart": 23,
+            "score": 74
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 8,
+            "wks_on_chart": 24,
+            "score": 70
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 8,
+            "wks_on_chart": 25,
+            "score": 63
+        }
+    ],
+    "Two Birds, One Stone": [
+        {
+            "date": "2016-11-19",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 73,
+            "wks_on_chart": 1,
+            "score": 28
+        }
+    ],
+    "Passionfruit": [
+        {
+            "date": "2017-04-08",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 8,
+            "wks_on_chart": 1,
+            "score": 93
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 8,
+            "wks_on_chart": 2,
+            "score": 91
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 8,
+            "wks_on_chart": 3,
+            "score": 78
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 8,
+            "wks_on_chart": 4,
+            "score": 79
+        },
+        {
+            "date": "2017-05-06",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 8,
+            "wks_on_chart": 5,
+            "score": 74
+        },
+        {
+            "date": "2017-05-13",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 8,
+            "wks_on_chart": 6,
+            "score": 83
+        },
+        {
+            "date": "2017-05-20",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 8,
+            "wks_on_chart": 7,
+            "score": 83
+        },
+        {
+            "date": "2017-05-27",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 8,
+            "wks_on_chart": 8,
+            "score": 82
+        },
+        {
+            "date": "2017-06-03",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 8,
+            "wks_on_chart": 9,
+            "score": 80
+        },
+        {
+            "date": "2017-06-10",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 8,
+            "wks_on_chart": 10,
+            "score": 77
+        },
+        {
+            "date": "2017-06-17",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 8,
+            "wks_on_chart": 11,
+            "score": 74
+        },
+        {
+            "date": "2017-06-24",
+            "pos": 34,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 8,
+            "wks_on_chart": 12,
+            "score": 67
+        },
+        {
+            "date": "2017-07-01",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 34.0,
+            "peak_pos": 8,
+            "wks_on_chart": 13,
+            "score": 56
+        },
+        {
+            "date": "2017-07-08",
+            "pos": 48,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 8,
+            "wks_on_chart": 14,
+            "score": 53
+        },
+        {
+            "date": "2017-07-15",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 48.0,
+            "peak_pos": 8,
+            "wks_on_chart": 15,
+            "score": 49
+        },
+        {
+            "date": "2017-07-22",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 8,
+            "wks_on_chart": 16,
+            "score": 50
+        },
+        {
+            "date": "2017-07-29",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 51.0,
+            "peak_pos": 8,
+            "wks_on_chart": 17,
+            "score": 34
+        },
+        {
+            "date": "2017-08-05",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 8,
+            "wks_on_chart": 18,
+            "score": 27
+        },
+        {
+            "date": "2017-08-12",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 8,
+            "wks_on_chart": 19,
+            "score": 21
+        },
+        {
+            "date": "2017-08-19",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 80.0,
+            "peak_pos": 8,
+            "wks_on_chart": 20,
+            "score": 20
+        }
+    ],
+    "Free Smoke": [
+        {
+            "date": "2017-04-08",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 18,
+            "wks_on_chart": 1,
+            "score": 83
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 18,
+            "wks_on_chart": 2,
+            "score": 61
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 18,
+            "wks_on_chart": 3,
+            "score": 33
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 18,
+            "wks_on_chart": 4,
+            "score": 29
+        }
+    ],
+    "Gyalchester": [
+        {
+            "date": "2017-04-08",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 29,
+            "wks_on_chart": 1,
+            "score": 72
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 43,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 29,
+            "wks_on_chart": 2,
+            "score": 58
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 43.0,
+            "peak_pos": 29,
+            "wks_on_chart": 3,
+            "score": 39
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": 62.0,
+            "peak_pos": 29,
+            "wks_on_chart": 4,
+            "score": 39
+        },
+        {
+            "date": "2017-05-06",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 62.0,
+            "peak_pos": 29,
+            "wks_on_chart": 5,
+            "score": 9
+        },
+        {
+            "date": "2017-05-13",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": 92.0,
+            "peak_pos": 29,
+            "wks_on_chart": 6,
+            "score": 4
+        },
+        {
+            "date": "2017-05-27",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 29,
+            "wks_on_chart": 7,
+            "score": 3
+        },
+        {
+            "date": "2017-06-10",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 29,
+            "wks_on_chart": 8,
+            "score": 17
+        },
+        {
+            "date": "2017-06-17",
+            "pos": 79,
+            "artist": "Drake",
+            "last_week": 84.0,
+            "peak_pos": 29,
+            "wks_on_chart": 9,
+            "score": 22
+        },
+        {
+            "date": "2017-06-24",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 79.0,
+            "peak_pos": 29,
+            "wks_on_chart": 10,
+            "score": 10
+        },
+        {
+            "date": "2017-07-01",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": 91.0,
+            "peak_pos": 29,
+            "wks_on_chart": 11,
+            "score": 3
+        }
+    ],
+    "Teenage Fever": [
+        {
+            "date": "2017-04-08",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 35,
+            "wks_on_chart": 1,
+            "score": 66
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 2,
+            "score": 48
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 35,
+            "wks_on_chart": 3,
+            "score": 18
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 83.0,
+            "peak_pos": 35,
+            "wks_on_chart": 4,
+            "score": 10
+        }
+    ],
+    "Blem": [
+        {
+            "date": "2017-04-08",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 38,
+            "wks_on_chart": 1,
+            "score": 63
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 48,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 38,
+            "wks_on_chart": 2,
+            "score": 53
+        },
+        {
+            "date": "2017-04-22",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 48.0,
+            "peak_pos": 38,
+            "wks_on_chart": 3,
+            "score": 23
+        },
+        {
+            "date": "2017-04-29",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 78.0,
+            "peak_pos": 38,
+            "wks_on_chart": 4,
+            "score": 17
+        }
+    ],
+    "Jorja Interlude": [
+        {
+            "date": "2017-04-08",
+            "pos": 49,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 49,
+            "wks_on_chart": 1,
+            "score": 52
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 49.0,
+            "peak_pos": 49,
+            "wks_on_chart": 2,
+            "score": 18
+        }
+    ],
+    "Madiba Riddim": [
+        {
+            "date": "2017-04-08",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 51,
+            "wks_on_chart": 1,
+            "score": 50
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 51.0,
+            "peak_pos": 51,
+            "wks_on_chart": 2,
+            "score": 17
+        }
+    ],
+    "Do Not Disturb": [
+        {
+            "date": "2017-04-08",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 60,
+            "wks_on_chart": 1,
+            "score": 41
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 86,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 60,
+            "wks_on_chart": 2,
+            "score": 15
+        }
+    ],
+    "Nothings Into Somethings": [
+        {
+            "date": "2017-04-08",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 61,
+            "wks_on_chart": 1,
+            "score": 40
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 61,
+            "wks_on_chart": 2,
+            "score": 2
+        }
+    ],
+    "Lose You": [
+        {
+            "date": "2017-04-08",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 64,
+            "wks_on_chart": 1,
+            "score": 37
+        }
+    ],
+    "Skepta Interlude": [
+        {
+            "date": "2017-04-08",
+            "pos": 76,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 76,
+            "wks_on_chart": 1,
+            "score": 25
+        }
+    ],
+    "Can't Have Everything": [
+        {
+            "date": "2017-04-08",
+            "pos": 82,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 82,
+            "wks_on_chart": 1,
+            "score": 19
+        },
+        {
+            "date": "2017-04-15",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": 82.0,
+            "peak_pos": 82,
+            "wks_on_chart": 2,
+            "score": 4
+        }
+    ],
+    "Signs": [
+        {
+            "date": "2017-07-15",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 36,
+            "wks_on_chart": 1,
+            "score": 65
+        },
+        {
+            "date": "2017-07-22",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 36,
+            "wks_on_chart": 2,
+            "score": 47
+        },
+        {
+            "date": "2017-07-29",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 36,
+            "wks_on_chart": 3,
+            "score": 18
+        },
+        {
+            "date": "2017-08-05",
+            "pos": 88,
+            "artist": "Drake",
+            "last_week": 83.0,
+            "peak_pos": 36,
+            "wks_on_chart": 4,
+            "score": 13
+        },
+        {
+            "date": "2017-08-12",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": 88.0,
+            "peak_pos": 36,
+            "wks_on_chart": 5,
+            "score": 3
+        },
+        {
+            "date": "2017-08-19",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": 98.0,
+            "peak_pos": 36,
+            "wks_on_chart": 6,
+            "score": 1
+        }
+    ],
+    "God's Plan": [
+        {
+            "date": "2018-02-03",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 1,
+            "score": 100
+        },
+        {
+            "date": "2018-02-10",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 2,
+            "score": 100
+        },
+        {
+            "date": "2018-02-17",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 3,
+            "score": 100
+        },
+        {
+            "date": "2018-02-24",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 4,
+            "score": 100
+        },
+        {
+            "date": "2018-03-03",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 5,
+            "score": 100
+        },
+        {
+            "date": "2018-03-10",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 6,
+            "score": 100
+        },
+        {
+            "date": "2018-03-17",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 7,
+            "score": 100
+        },
+        {
+            "date": "2018-03-24",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 8,
+            "score": 100
+        },
+        {
+            "date": "2018-03-31",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 9,
+            "score": 100
+        },
+        {
+            "date": "2018-04-07",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 10,
+            "score": 100
+        },
+        {
+            "date": "2018-04-14",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 11,
+            "score": 100
+        },
+        {
+            "date": "2018-04-21",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 12,
+            "score": 99
+        },
+        {
+            "date": "2018-04-28",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 13,
+            "score": 99
+        },
+        {
+            "date": "2018-05-05",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 14,
+            "score": 99
+        },
+        {
+            "date": "2018-05-12",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 15,
+            "score": 98
+        },
+        {
+            "date": "2018-05-19",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 16,
+            "score": 98
+        },
+        {
+            "date": "2018-05-26",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 17,
+            "score": 98
+        },
+        {
+            "date": "2018-06-02",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 18,
+            "score": 98
+        },
+        {
+            "date": "2018-06-09",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 19,
+            "score": 98
+        },
+        {
+            "date": "2018-06-16",
+            "pos": 5,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 20,
+            "score": 96
+        },
+        {
+            "date": "2018-06-23",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 5.0,
+            "peak_pos": 1,
+            "wks_on_chart": 21,
+            "score": 97
+        },
+        {
+            "date": "2018-06-30",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 22,
+            "score": 93
+        },
+        {
+            "date": "2018-07-07",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 1,
+            "wks_on_chart": 23,
+            "score": 92
+        },
+        {
+            "date": "2018-07-14",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 1,
+            "wks_on_chart": 24,
+            "score": 97
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 25,
+            "score": 95
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 26,
+            "score": 91
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 1,
+            "wks_on_chart": 27,
+            "score": 88
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 1,
+            "wks_on_chart": 28,
+            "score": 85
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 1,
+            "wks_on_chart": 29,
+            "score": 78
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 1,
+            "wks_on_chart": 30,
+            "score": 77
+        },
+        {
+            "date": "2018-09-01",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 1,
+            "wks_on_chart": 31,
+            "score": 74
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 1,
+            "wks_on_chart": 32,
+            "score": 71
+        },
+        {
+            "date": "2018-09-15",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 1,
+            "wks_on_chart": 33,
+            "score": 64
+        },
+        {
+            "date": "2018-09-22",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 1,
+            "wks_on_chart": 34,
+            "score": 65
+        },
+        {
+            "date": "2018-09-29",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 1,
+            "wks_on_chart": 35,
+            "score": 61
+        },
+        {
+            "date": "2018-10-06",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 1,
+            "wks_on_chart": 36,
+            "score": 56
+        }
+    ],
+    "Diplomatic Immunity": [
+        {
+            "date": "2018-02-03",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 7,
+            "wks_on_chart": 1,
+            "score": 94
+        },
+        {
+            "date": "2018-02-10",
+            "pos": 55,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 7,
+            "wks_on_chart": 2,
+            "score": 46
+        },
+        {
+            "date": "2018-02-17",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 55.0,
+            "peak_pos": 7,
+            "wks_on_chart": 3,
+            "score": 18
+        }
+    ],
+    "Nice For What": [
+        {
+            "date": "2018-04-21",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 1,
+            "score": 100
+        },
+        {
+            "date": "2018-04-28",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 2,
+            "score": 100
+        },
+        {
+            "date": "2018-05-05",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 3,
+            "score": 100
+        },
+        {
+            "date": "2018-05-12",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 4,
+            "score": 100
+        },
+        {
+            "date": "2018-05-19",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 5,
+            "score": 99
+        },
+        {
+            "date": "2018-05-26",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 6,
+            "score": 99
+        },
+        {
+            "date": "2018-06-02",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 7,
+            "score": 100
+        },
+        {
+            "date": "2018-06-09",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 8,
+            "score": 100
+        },
+        {
+            "date": "2018-06-16",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 9,
+            "score": 99
+        },
+        {
+            "date": "2018-06-23",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 10,
+            "score": 100
+        },
+        {
+            "date": "2018-06-30",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 11,
+            "score": 98
+        },
+        {
+            "date": "2018-07-07",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 12,
+            "score": 95
+        },
+        {
+            "date": "2018-07-14",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 13,
+            "score": 100
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 14,
+            "score": 97
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 15,
+            "score": 97
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 16,
+            "score": 95
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 10,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 17,
+            "score": 91
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 10.0,
+            "peak_pos": 1,
+            "wks_on_chart": 18,
+            "score": 89
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 1,
+            "wks_on_chart": 19,
+            "score": 87
+        },
+        {
+            "date": "2018-09-01",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 1,
+            "wks_on_chart": 20,
+            "score": 84
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 1,
+            "wks_on_chart": 21,
+            "score": 78
+        },
+        {
+            "date": "2018-09-15",
+            "pos": 31,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 1,
+            "wks_on_chart": 22,
+            "score": 70
+        },
+        {
+            "date": "2018-09-22",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 31.0,
+            "peak_pos": 1,
+            "wks_on_chart": 23,
+            "score": 71
+        },
+        {
+            "date": "2018-09-29",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 1,
+            "wks_on_chart": 24,
+            "score": 64
+        },
+        {
+            "date": "2018-10-06",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 1,
+            "wks_on_chart": 25,
+            "score": 62
+        }
+    ],
+    "I'm Upset": [
+        {
+            "date": "2018-06-09",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 19,
+            "wks_on_chart": 1,
+            "score": 82
+        },
+        {
+            "date": "2018-06-16",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 19,
+            "wks_on_chart": 2,
+            "score": 69
+        },
+        {
+            "date": "2018-06-23",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 19,
+            "wks_on_chart": 3,
+            "score": 73
+        },
+        {
+            "date": "2018-06-30",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 15,
+            "wks_on_chart": 4,
+            "score": 86
+        },
+        {
+            "date": "2018-07-07",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 15,
+            "wks_on_chart": 5,
+            "score": 75
+        },
+        {
+            "date": "2018-07-14",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 7,
+            "wks_on_chart": 6,
+            "score": 94
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 7,
+            "wks_on_chart": 7,
+            "score": 85
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 7,
+            "wks_on_chart": 8,
+            "score": 77
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 7,
+            "wks_on_chart": 9,
+            "score": 63
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 7,
+            "wks_on_chart": 10,
+            "score": 56
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 7,
+            "wks_on_chart": 11,
+            "score": 36
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 7,
+            "wks_on_chart": 12,
+            "score": 27
+        },
+        {
+            "date": "2018-09-01",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 7,
+            "wks_on_chart": 13,
+            "score": 31
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 7,
+            "wks_on_chart": 14,
+            "score": 24
+        },
+        {
+            "date": "2018-09-15",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 7,
+            "wks_on_chart": 15,
+            "score": 6
+        },
+        {
+            "date": "2018-09-22",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": 95.0,
+            "peak_pos": 7,
+            "wks_on_chart": 16,
+            "score": 4
+        }
+    ],
+    "Nonstop": [
+        {
+            "date": "2018-07-14",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 2,
+            "wks_on_chart": 1,
+            "score": 99
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 2,
+            "score": 90
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 2,
+            "wks_on_chart": 3,
+            "score": 81
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 2,
+            "wks_on_chart": 4,
+            "score": 72
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 2,
+            "wks_on_chart": 5,
+            "score": 72
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 2,
+            "wks_on_chart": 6,
+            "score": 72
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 2,
+            "wks_on_chart": 7,
+            "score": 80
+        },
+        {
+            "date": "2018-09-01",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 2,
+            "wks_on_chart": 8,
+            "score": 83
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 2,
+            "wks_on_chart": 9,
+            "score": 84
+        },
+        {
+            "date": "2018-09-15",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 2,
+            "wks_on_chart": 10,
+            "score": 83
+        },
+        {
+            "date": "2018-09-22",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 2,
+            "wks_on_chart": 11,
+            "score": 84
+        },
+        {
+            "date": "2018-09-29",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 2,
+            "wks_on_chart": 12,
+            "score": 86
+        },
+        {
+            "date": "2018-10-06",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 2,
+            "wks_on_chart": 13,
+            "score": 85
+        },
+        {
+            "date": "2018-10-13",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 2,
+            "wks_on_chart": 14,
+            "score": 78
+        },
+        {
+            "date": "2018-10-20",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 2,
+            "wks_on_chart": 15,
+            "score": 82
+        },
+        {
+            "date": "2018-10-27",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 2,
+            "wks_on_chart": 16,
+            "score": 81
+        },
+        {
+            "date": "2018-11-03",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 2,
+            "wks_on_chart": 17,
+            "score": 79
+        },
+        {
+            "date": "2018-11-10",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 2,
+            "wks_on_chart": 18,
+            "score": 76
+        },
+        {
+            "date": "2018-11-17",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 2,
+            "wks_on_chart": 19,
+            "score": 73
+        },
+        {
+            "date": "2018-11-24",
+            "pos": 33,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 2,
+            "wks_on_chart": 20,
+            "score": 68
+        },
+        {
+            "date": "2018-12-01",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 33.0,
+            "peak_pos": 2,
+            "wks_on_chart": 21,
+            "score": 69
+        },
+        {
+            "date": "2018-12-08",
+            "pos": 46,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 2,
+            "wks_on_chart": 22,
+            "score": 55
+        }
+    ],
+    "In My Feelings": [
+        {
+            "date": "2018-07-14",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 6,
+            "wks_on_chart": 1,
+            "score": 95
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 2,
+            "score": 100
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 3,
+            "score": 100
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 4,
+            "score": 100
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 5,
+            "score": 100
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 6,
+            "score": 100
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 7,
+            "score": 100
+        },
+        {
+            "date": "2018-09-01",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 8,
+            "score": 100
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 9,
+            "score": 100
+        },
+        {
+            "date": "2018-09-15",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 10,
+            "score": 100
+        },
+        {
+            "date": "2018-09-22",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 11,
+            "score": 100
+        },
+        {
+            "date": "2018-09-29",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 12,
+            "score": 99
+        },
+        {
+            "date": "2018-10-06",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 13,
+            "score": 97
+        },
+        {
+            "date": "2018-10-13",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 14,
+            "score": 92
+        },
+        {
+            "date": "2018-10-20",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 1,
+            "wks_on_chart": 15,
+            "score": 90
+        },
+        {
+            "date": "2018-10-27",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 1,
+            "wks_on_chart": 16,
+            "score": 86
+        },
+        {
+            "date": "2018-11-03",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 1,
+            "wks_on_chart": 17,
+            "score": 78
+        },
+        {
+            "date": "2018-11-10",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 1,
+            "wks_on_chart": 18,
+            "score": 78
+        },
+        {
+            "date": "2018-11-17",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 23.0,
+            "peak_pos": 1,
+            "wks_on_chart": 19,
+            "score": 74
+        },
+        {
+            "date": "2018-11-24",
+            "pos": 29,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 1,
+            "wks_on_chart": 20,
+            "score": 72
+        },
+        {
+            "date": "2018-12-01",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 29.0,
+            "peak_pos": 1,
+            "wks_on_chart": 21,
+            "score": 76
+        },
+        {
+            "date": "2018-12-08",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 1,
+            "wks_on_chart": 22,
+            "score": 64
+        }
+    ],
+    "Emotionless": [
+        {
+            "date": "2018-07-14",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 8,
+            "wks_on_chart": 1,
+            "score": 93
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 8,
+            "wks_on_chart": 2,
+            "score": 63
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 8,
+            "wks_on_chart": 3,
+            "score": 43
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 58.0,
+            "peak_pos": 8,
+            "wks_on_chart": 4,
+            "score": 2
+        }
+    ],
+    "Mob Ties": [
+        {
+            "date": "2018-07-14",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 13,
+            "wks_on_chart": 1,
+            "score": 88
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 13,
+            "wks_on_chart": 2,
+            "score": 73
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 43,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 13,
+            "wks_on_chart": 3,
+            "score": 58
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 53,
+            "artist": "Drake",
+            "last_week": 43.0,
+            "peak_pos": 13,
+            "wks_on_chart": 4,
+            "score": 48
+        },
+        {
+            "date": "2018-08-11",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 53.0,
+            "peak_pos": 13,
+            "wks_on_chart": 5,
+            "score": 37
+        },
+        {
+            "date": "2018-08-18",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 64.0,
+            "peak_pos": 13,
+            "wks_on_chart": 6,
+            "score": 7
+        },
+        {
+            "date": "2018-08-25",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 94.0,
+            "peak_pos": 13,
+            "wks_on_chart": 7,
+            "score": 2
+        },
+        {
+            "date": "2018-09-08",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 13,
+            "wks_on_chart": 8,
+            "score": 6
+        }
+    ],
+    "Elevate": [
+        {
+            "date": "2018-07-14",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 14,
+            "wks_on_chart": 1,
+            "score": 87
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 14,
+            "wks_on_chart": 2,
+            "score": 57
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 14,
+            "wks_on_chart": 3,
+            "score": 34
+        }
+    ],
+    "Survival": [
+        {
+            "date": "2018-07-14",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 17,
+            "wks_on_chart": 1,
+            "score": 84
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 69,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 17,
+            "wks_on_chart": 2,
+            "score": 32
+        }
+    ],
+    "Can't Take A Joke": [
+        {
+            "date": "2018-07-14",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 18,
+            "wks_on_chart": 1,
+            "score": 83
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 18,
+            "wks_on_chart": 2,
+            "score": 56
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 18,
+            "wks_on_chart": 3,
+            "score": 40
+        },
+        {
+            "date": "2018-08-04",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": 61.0,
+            "peak_pos": 18,
+            "wks_on_chart": 4,
+            "score": 1
+        }
+    ],
+    "8 Out Of 10": [
+        {
+            "date": "2018-07-14",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 21,
+            "wks_on_chart": 1,
+            "score": 80
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 59,
+            "artist": "Drake",
+            "last_week": 21.0,
+            "peak_pos": 21,
+            "wks_on_chart": 2,
+            "score": 42
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": 59.0,
+            "peak_pos": 21,
+            "wks_on_chart": 3,
+            "score": 3
+        }
+    ],
+    "Sandra's Rose": [
+        {
+            "date": "2018-07-14",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 27,
+            "wks_on_chart": 1,
+            "score": 74
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 63,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 27,
+            "wks_on_chart": 2,
+            "score": 38
+        }
+    ],
+    "Summer Games": [
+        {
+            "date": "2018-07-14",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 28,
+            "wks_on_chart": 1,
+            "score": 73
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 28,
+            "wks_on_chart": 2,
+            "score": 37
+        }
+    ],
+    "Blue Tint": [
+        {
+            "date": "2018-07-14",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 30,
+            "wks_on_chart": 1,
+            "score": 71
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 55,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 30,
+            "wks_on_chart": 2,
+            "score": 46
+        },
+        {
+            "date": "2018-07-28",
+            "pos": 80,
+            "artist": "Drake",
+            "last_week": 55.0,
+            "peak_pos": 30,
+            "wks_on_chart": 3,
+            "score": 21
+        }
+    ],
+    "Jaded": [
+        {
+            "date": "2018-07-14",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 32,
+            "wks_on_chart": 1,
+            "score": 69
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 32,
+            "wks_on_chart": 2,
+            "score": 34
+        }
+    ],
+    "Is There More": [
+        {
+            "date": "2018-07-14",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 36,
+            "wks_on_chart": 1,
+            "score": 65
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 100,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 36,
+            "wks_on_chart": 2,
+            "score": 1
+        }
+    ],
+    "That's How You Feel": [
+        {
+            "date": "2018-07-14",
+            "pos": 37,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 37,
+            "wks_on_chart": 1,
+            "score": 64
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 37.0,
+            "peak_pos": 37,
+            "wks_on_chart": 2,
+            "score": 33
+        }
+    ],
+    "Peak": [
+        {
+            "date": "2018-07-14",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 38,
+            "wks_on_chart": 1,
+            "score": 63
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 93,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 38,
+            "wks_on_chart": 2,
+            "score": 8
+        }
+    ],
+    "Finesse": [
+        {
+            "date": "2018-07-14",
+            "pos": 42,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 42,
+            "wks_on_chart": 1,
+            "score": 59
+        },
+        {
+            "date": "2018-07-21",
+            "pos": 78,
+            "artist": "Drake",
+            "last_week": 42.0,
+            "peak_pos": 42,
+            "wks_on_chart": 2,
+            "score": 23
+        }
+    ],
+    "Ratchet Happy Birthday": [
+        {
+            "date": "2018-07-14",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 51,
+            "wks_on_chart": 1,
+            "score": 50
+        }
+    ],
+    "Final Fantasy": [
+        {
+            "date": "2018-07-14",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 56,
+            "wks_on_chart": 1,
+            "score": 45
+        }
+    ],
+    "March 14": [
+        {
+            "date": "2018-07-14",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 57,
+            "wks_on_chart": 1,
+            "score": 44
+        }
+    ],
+    "Omerta": [
+        {
+            "date": "2019-06-29",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 35,
+            "wks_on_chart": 1,
+            "score": 66
+        },
+        {
+            "date": "2019-07-06",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 35.0,
+            "peak_pos": 35,
+            "wks_on_chart": 2,
+            "score": 2
+        }
+    ],
+    "Trust Issues": [
+        {
+            "date": "2019-08-17",
+            "pos": 58,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 58,
+            "wks_on_chart": 1,
+            "score": 43
+        }
+    ],
+    "How About Now": [
+        {
+            "date": "2019-08-17",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 60,
+            "wks_on_chart": 1,
+            "score": 41
+        }
+    ],
+    "The Motion": [
+        {
+            "date": "2019-08-17",
+            "pos": 61,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 61,
+            "wks_on_chart": 1,
+            "score": 40
+        }
+    ],
+    "Dreams Money Can Buy": [
+        {
+            "date": "2019-08-17",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 68,
+            "wks_on_chart": 1,
+            "score": 33
+        }
+    ],
+    "Club Paradise": [
+        {
+            "date": "2019-08-17",
+            "pos": 85,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 85,
+            "wks_on_chart": 1,
+            "score": 16
+        }
+    ],
+    "Days In The East": [
+        {
+            "date": "2019-08-17",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 95,
+            "wks_on_chart": 1,
+            "score": 6
+        }
+    ],
+    "Behind Barz": [
+        {
+            "date": "2019-09-28",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 75,
+            "wks_on_chart": 1,
+            "score": 26
+        },
+        {
+            "date": "2019-10-05",
+            "pos": 83,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 75,
+            "wks_on_chart": 2,
+            "score": 18
+        }
+    ],
+    "Toosie Slide": [
+        {
+            "date": "2020-04-18",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 1,
+            "score": 100
+        },
+        {
+            "date": "2020-04-25",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 2,
+            "score": 99
+        },
+        {
+            "date": "2020-05-02",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 3,
+            "score": 99
+        },
+        {
+            "date": "2020-05-09",
+            "pos": 3,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 1,
+            "wks_on_chart": 4,
+            "score": 98
+        },
+        {
+            "date": "2020-05-16",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 3.0,
+            "peak_pos": 1,
+            "wks_on_chart": 5,
+            "score": 97
+        },
+        {
+            "date": "2020-05-23",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 6,
+            "score": 95
+        },
+        {
+            "date": "2020-05-30",
+            "pos": 5,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 7,
+            "score": 96
+        },
+        {
+            "date": "2020-06-06",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 5.0,
+            "peak_pos": 1,
+            "wks_on_chart": 8,
+            "score": 95
+        },
+        {
+            "date": "2020-06-13",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 9,
+            "score": 95
+        },
+        {
+            "date": "2020-06-20",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 10,
+            "score": 95
+        },
+        {
+            "date": "2020-06-27",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 1,
+            "wks_on_chart": 11,
+            "score": 89
+        },
+        {
+            "date": "2020-07-04",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 1,
+            "wks_on_chart": 12,
+            "score": 81
+        },
+        {
+            "date": "2020-07-11",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 20.0,
+            "peak_pos": 1,
+            "wks_on_chart": 13,
+            "score": 75
+        },
+        {
+            "date": "2020-07-18",
+            "pos": 38,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 1,
+            "wks_on_chart": 14,
+            "score": 63
+        },
+        {
+            "date": "2020-07-25",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 38.0,
+            "peak_pos": 1,
+            "wks_on_chart": 15,
+            "score": 47
+        },
+        {
+            "date": "2020-08-01",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 1,
+            "wks_on_chart": 16,
+            "score": 56
+        },
+        {
+            "date": "2020-08-08",
+            "pos": 75,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 1,
+            "wks_on_chart": 17,
+            "score": 26
+        },
+        {
+            "date": "2020-08-15",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 75.0,
+            "peak_pos": 1,
+            "wks_on_chart": 18,
+            "score": 37
+        },
+        {
+            "date": "2020-08-22",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 64.0,
+            "peak_pos": 1,
+            "wks_on_chart": 19,
+            "score": 33
+        },
+        {
+            "date": "2020-08-29",
+            "pos": 72,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 1,
+            "wks_on_chart": 20,
+            "score": 29
+        }
+    ],
+    "Time Flies": [
+        {
+            "date": "2020-05-16",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 30,
+            "wks_on_chart": 1,
+            "score": 71
+        },
+        {
+            "date": "2020-05-23",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 30,
+            "wks_on_chart": 2,
+            "score": 7
+        }
+    ],
+    "Deep Pockets": [
+        {
+            "date": "2020-05-16",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 32,
+            "wks_on_chart": 1,
+            "score": 69
+        }
+    ],
+    "When To Say When": [
+        {
+            "date": "2020-05-16",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 35,
+            "wks_on_chart": 1,
+            "score": 66
+        }
+    ],
+    "Landed": [
+        {
+            "date": "2020-05-16",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 39,
+            "wks_on_chart": 1,
+            "score": 62
+        }
+    ],
+    "From Florida With Love": [
+        {
+            "date": "2020-05-16",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 45,
+            "wks_on_chart": 1,
+            "score": 56
+        }
+    ],
+    "Losses": [
+        {
+            "date": "2020-05-16",
+            "pos": 51,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 51,
+            "wks_on_chart": 1,
+            "score": 50
+        }
+    ],
+    "War": [
+        {
+            "date": "2020-05-16",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 52,
+            "wks_on_chart": 1,
+            "score": 49
+        }
+    ],
+    "What's Next": [
+        {
+            "date": "2021-03-20",
+            "pos": 1,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 1,
+            "score": 100
+        },
+        {
+            "date": "2021-03-27",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": 1.0,
+            "peak_pos": 1,
+            "wks_on_chart": 2,
+            "score": 97
+        },
+        {
+            "date": "2021-04-03",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 1,
+            "wks_on_chart": 3,
+            "score": 93
+        },
+        {
+            "date": "2021-04-10",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 1,
+            "wks_on_chart": 4,
+            "score": 88
+        },
+        {
+            "date": "2021-04-17",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 1,
+            "wks_on_chart": 5,
+            "score": 84
+        },
+        {
+            "date": "2021-04-24",
+            "pos": 25,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 1,
+            "wks_on_chart": 6,
+            "score": 76
+        },
+        {
+            "date": "2021-05-01",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 25.0,
+            "peak_pos": 1,
+            "wks_on_chart": 7,
+            "score": 73
+        },
+        {
+            "date": "2021-05-08",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 1,
+            "wks_on_chart": 8,
+            "score": 71
+        },
+        {
+            "date": "2021-05-15",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 1,
+            "wks_on_chart": 9,
+            "score": 56
+        },
+        {
+            "date": "2021-05-22",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 1,
+            "wks_on_chart": 10,
+            "score": 49
+        },
+        {
+            "date": "2021-05-29",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 1,
+            "wks_on_chart": 11,
+            "score": 35
+        },
+        {
+            "date": "2021-06-05",
+            "pos": 73,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 1,
+            "wks_on_chart": 12,
+            "score": 28
+        },
+        {
+            "date": "2021-06-12",
+            "pos": 76,
+            "artist": "Drake",
+            "last_week": 73.0,
+            "peak_pos": 1,
+            "wks_on_chart": 13,
+            "score": 25
+        },
+        {
+            "date": "2021-06-19",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 76.0,
+            "peak_pos": 1,
+            "wks_on_chart": 14,
+            "score": 6
+        },
+        {
+            "date": "2021-07-03",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 15,
+            "score": 10
+        },
+        {
+            "date": "2021-07-17",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 1,
+            "wks_on_chart": 16,
+            "score": 4
+        }
+    ],
+    "Champagne Poetry": [
+        {
+            "date": "2021-09-18",
+            "pos": 4,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 4,
+            "wks_on_chart": 1,
+            "score": 97
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": 4.0,
+            "peak_pos": 4,
+            "wks_on_chart": 2,
+            "score": 82
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 30,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 4,
+            "wks_on_chart": 3,
+            "score": 71
+        },
+        {
+            "date": "2021-10-09",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 30.0,
+            "peak_pos": 4,
+            "wks_on_chart": 4,
+            "score": 47
+        },
+        {
+            "date": "2021-10-16",
+            "pos": 65,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 4,
+            "wks_on_chart": 5,
+            "score": 36
+        },
+        {
+            "date": "2021-10-23",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": 65.0,
+            "peak_pos": 4,
+            "wks_on_chart": 6,
+            "score": 24
+        },
+        {
+            "date": "2021-10-30",
+            "pos": 90,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 4,
+            "wks_on_chart": 7,
+            "score": 11
+        }
+    ],
+    "Papi's Home": [
+        {
+            "date": "2021-09-18",
+            "pos": 8,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 8,
+            "wks_on_chart": 1,
+            "score": 93
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 8.0,
+            "peak_pos": 8,
+            "wks_on_chart": 2,
+            "score": 60
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 8,
+            "wks_on_chart": 3,
+            "score": 35
+        },
+        {
+            "date": "2021-10-09",
+            "pos": 97,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 8,
+            "wks_on_chart": 4,
+            "score": 4
+        }
+    ],
+    "TSU": [
+        {
+            "date": "2021-09-18",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 9,
+            "wks_on_chart": 1,
+            "score": 92
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 27,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 9,
+            "wks_on_chart": 2,
+            "score": 74
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 48,
+            "artist": "Drake",
+            "last_week": 27.0,
+            "peak_pos": 9,
+            "wks_on_chart": 3,
+            "score": 53
+        },
+        {
+            "date": "2021-10-09",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 48.0,
+            "peak_pos": 9,
+            "wks_on_chart": 4,
+            "score": 17
+        },
+        {
+            "date": "2021-10-16",
+            "pos": 98,
+            "artist": "Drake",
+            "last_week": 84.0,
+            "peak_pos": 9,
+            "wks_on_chart": 5,
+            "score": 3
+        }
+    ],
+    "No Friends In The Industry": [
+        {
+            "date": "2021-09-18",
+            "pos": 11,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 11,
+            "wks_on_chart": 1,
+            "score": 90
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 22,
+            "artist": "Drake",
+            "last_week": 11.0,
+            "peak_pos": 11,
+            "wks_on_chart": 2,
+            "score": 79
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 40,
+            "artist": "Drake",
+            "last_week": 22.0,
+            "peak_pos": 11,
+            "wks_on_chart": 3,
+            "score": 61
+        },
+        {
+            "date": "2021-10-09",
+            "pos": 60,
+            "artist": "Drake",
+            "last_week": 40.0,
+            "peak_pos": 11,
+            "wks_on_chart": 4,
+            "score": 41
+        },
+        {
+            "date": "2021-10-16",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 60.0,
+            "peak_pos": 11,
+            "wks_on_chart": 5,
+            "score": 37
+        },
+        {
+            "date": "2021-10-23",
+            "pos": 74,
+            "artist": "Drake",
+            "last_week": 64.0,
+            "peak_pos": 11,
+            "wks_on_chart": 6,
+            "score": 27
+        },
+        {
+            "date": "2021-10-30",
+            "pos": 87,
+            "artist": "Drake",
+            "last_week": 74.0,
+            "peak_pos": 11,
+            "wks_on_chart": 7,
+            "score": 14
+        },
+        {
+            "date": "2021-11-06",
+            "pos": 91,
+            "artist": "Drake",
+            "last_week": 87.0,
+            "peak_pos": 11,
+            "wks_on_chart": 8,
+            "score": 10
+        }
+    ],
+    "Pipe Down": [
+        {
+            "date": "2021-09-18",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 14,
+            "wks_on_chart": 1,
+            "score": 87
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 45,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 14,
+            "wks_on_chart": 2,
+            "score": 56
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 68,
+            "artist": "Drake",
+            "last_week": 45.0,
+            "peak_pos": 14,
+            "wks_on_chart": 3,
+            "score": 33
+        },
+        {
+            "date": "2021-10-09",
+            "pos": 96,
+            "artist": "Drake",
+            "last_week": 68.0,
+            "peak_pos": 14,
+            "wks_on_chart": 4,
+            "score": 5
+        }
+    ],
+    "7am On Bridle Path": [
+        {
+            "date": "2021-09-18",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 16,
+            "wks_on_chart": 1,
+            "score": 85
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 57,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 16,
+            "wks_on_chart": 2,
+            "score": 44
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 57.0,
+            "peak_pos": 16,
+            "wks_on_chart": 3,
+            "score": 9
+        }
+    ],
+    "Race My Mind": [
+        {
+            "date": "2021-09-18",
+            "pos": 18,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 18,
+            "wks_on_chart": 1,
+            "score": 83
+        },
+        {
+            "date": "2021-09-25",
+            "pos": 54,
+            "artist": "Drake",
+            "last_week": 18.0,
+            "peak_pos": 18,
+            "wks_on_chart": 2,
+            "score": 47
+        },
+        {
+            "date": "2021-10-02",
+            "pos": 89,
+            "artist": "Drake",
+            "last_week": 54.0,
+            "peak_pos": 18,
+            "wks_on_chart": 3,
+            "score": 12
+        }
+    ],
+    "Fucking Fans": [
+        {
+            "date": "2021-09-18",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 32,
+            "wks_on_chart": 1,
+            "score": 69
+        }
+    ],
+    "The Remorse": [
+        {
+            "date": "2021-09-18",
+            "pos": 35,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 35,
+            "wks_on_chart": 1,
+            "score": 66
+        }
+    ],
+    "Sticky": [
+        {
+            "date": "2022-07-02",
+            "pos": 6,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 6,
+            "wks_on_chart": 1,
+            "score": 95
+        },
+        {
+            "date": "2022-07-09",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 6.0,
+            "peak_pos": 6,
+            "wks_on_chart": 2,
+            "score": 84
+        },
+        {
+            "date": "2022-07-16",
+            "pos": 24,
+            "artist": "Drake",
+            "last_week": 17.0,
+            "peak_pos": 6,
+            "wks_on_chart": 3,
+            "score": 77
+        },
+        {
+            "date": "2022-07-23",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": 24.0,
+            "peak_pos": 6,
+            "wks_on_chart": 4,
+            "score": 73
+        },
+        {
+            "date": "2022-07-30",
+            "pos": 32,
+            "artist": "Drake",
+            "last_week": 28.0,
+            "peak_pos": 6,
+            "wks_on_chart": 5,
+            "score": 69
+        },
+        {
+            "date": "2022-08-06",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 32.0,
+            "peak_pos": 6,
+            "wks_on_chart": 6,
+            "score": 65
+        },
+        {
+            "date": "2022-08-13",
+            "pos": 39,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 6,
+            "wks_on_chart": 7,
+            "score": 62
+        },
+        {
+            "date": "2022-08-20",
+            "pos": 36,
+            "artist": "Drake",
+            "last_week": 39.0,
+            "peak_pos": 6,
+            "wks_on_chart": 8,
+            "score": 65
+        },
+        {
+            "date": "2022-08-27",
+            "pos": 41,
+            "artist": "Drake",
+            "last_week": 36.0,
+            "peak_pos": 6,
+            "wks_on_chart": 9,
+            "score": 60
+        },
+        {
+            "date": "2022-09-03",
+            "pos": 46,
+            "artist": "Drake",
+            "last_week": 41.0,
+            "peak_pos": 6,
+            "wks_on_chart": 10,
+            "score": 55
+        },
+        {
+            "date": "2022-09-10",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": 46.0,
+            "peak_pos": 6,
+            "wks_on_chart": 11,
+            "score": 45
+        },
+        {
+            "date": "2022-09-17",
+            "pos": 69,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 6,
+            "wks_on_chart": 12,
+            "score": 32
+        },
+        {
+            "date": "2022-09-24",
+            "pos": 84,
+            "artist": "Drake",
+            "last_week": 69.0,
+            "peak_pos": 6,
+            "wks_on_chart": 13,
+            "score": 17
+        }
+    ],
+    "Falling Back": [
+        {
+            "date": "2022-07-02",
+            "pos": 7,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 7,
+            "wks_on_chart": 1,
+            "score": 94
+        },
+        {
+            "date": "2022-07-09",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 7.0,
+            "peak_pos": 7,
+            "wks_on_chart": 2,
+            "score": 37
+        }
+    ],
+    "Texts Go Green": [
+        {
+            "date": "2022-07-02",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 13,
+            "wks_on_chart": 1,
+            "score": 88
+        },
+        {
+            "date": "2022-07-09",
+            "pos": 94,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 13,
+            "wks_on_chart": 2,
+            "score": 7
+        }
+    ],
+    "Massive": [
+        {
+            "date": "2022-07-02",
+            "pos": 14,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 14,
+            "wks_on_chart": 1,
+            "score": 87
+        },
+        {
+            "date": "2022-07-09",
+            "pos": 44,
+            "artist": "Drake",
+            "last_week": 14.0,
+            "peak_pos": 14,
+            "wks_on_chart": 2,
+            "score": 57
+        },
+        {
+            "date": "2022-07-16",
+            "pos": 56,
+            "artist": "Drake",
+            "last_week": 44.0,
+            "peak_pos": 14,
+            "wks_on_chart": 3,
+            "score": 45
+        },
+        {
+            "date": "2022-07-23",
+            "pos": 64,
+            "artist": "Drake",
+            "last_week": 56.0,
+            "peak_pos": 14,
+            "wks_on_chart": 4,
+            "score": 37
+        },
+        {
+            "date": "2022-07-30",
+            "pos": 70,
+            "artist": "Drake",
+            "last_week": 64.0,
+            "peak_pos": 14,
+            "wks_on_chart": 5,
+            "score": 31
+        },
+        {
+            "date": "2022-08-06",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 70.0,
+            "peak_pos": 14,
+            "wks_on_chart": 6,
+            "score": 20
+        },
+        {
+            "date": "2022-08-13",
+            "pos": 95,
+            "artist": "Drake",
+            "last_week": 81.0,
+            "peak_pos": 14,
+            "wks_on_chart": 7,
+            "score": 6
+        }
+    ],
+    "Calling My Name": [
+        {
+            "date": "2022-07-02",
+            "pos": 20,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 20,
+            "wks_on_chart": 1,
+            "score": 81
+        }
+    ],
+    "A Keeper": [
+        {
+            "date": "2022-07-02",
+            "pos": 21,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 21,
+            "wks_on_chart": 1,
+            "score": 80
+        }
+    ],
+    "Currents": [
+        {
+            "date": "2022-07-02",
+            "pos": 23,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 23,
+            "wks_on_chart": 1,
+            "score": 78
+        }
+    ],
+    "Flight's Booked": [
+        {
+            "date": "2022-07-02",
+            "pos": 28,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 28,
+            "wks_on_chart": 1,
+            "score": 73
+        }
+    ],
+    "Overdrive": [
+        {
+            "date": "2022-07-02",
+            "pos": 42,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 42,
+            "wks_on_chart": 1,
+            "score": 59
+        }
+    ],
+    "Liability": [
+        {
+            "date": "2022-07-02",
+            "pos": 47,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 47,
+            "wks_on_chart": 1,
+            "score": 54
+        }
+    ],
+    "Down Hill": [
+        {
+            "date": "2022-07-02",
+            "pos": 62,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 62,
+            "wks_on_chart": 1,
+            "score": 39
+        }
+    ],
+    "Tie That Binds": [
+        {
+            "date": "2022-07-02",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 66,
+            "wks_on_chart": 1,
+            "score": 35
+        }
+    ],
+    "BackOutsideBoyz": [
+        {
+            "date": "2022-11-19",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 9,
+            "wks_on_chart": 1,
+            "score": 92
+        },
+        {
+            "date": "2022-11-26",
+            "pos": 26,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 9,
+            "wks_on_chart": 2,
+            "score": 75
+        },
+        {
+            "date": "2022-12-03",
+            "pos": 66,
+            "artist": "Drake",
+            "last_week": 26.0,
+            "peak_pos": 9,
+            "wks_on_chart": 3,
+            "score": 35
+        },
+        {
+            "date": "2022-12-10",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 66.0,
+            "peak_pos": 9,
+            "wks_on_chart": 4,
+            "score": 20
+        }
+    ],
+    "Middle Of The Ocean": [
+        {
+            "date": "2022-11-19",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 15,
+            "wks_on_chart": 1,
+            "score": 86
+        },
+        {
+            "date": "2022-11-26",
+            "pos": 67,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 15,
+            "wks_on_chart": 2,
+            "score": 34
+        },
+        {
+            "date": "2022-12-03",
+            "pos": 99,
+            "artist": "Drake",
+            "last_week": 67.0,
+            "peak_pos": 15,
+            "wks_on_chart": 3,
+            "score": 2
+        }
+    ],
+    "Jumbotron Shit Poppin": [
+        {
+            "date": "2022-11-19",
+            "pos": 16,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 16,
+            "wks_on_chart": 1,
+            "score": 85
+        },
+        {
+            "date": "2022-11-26",
+            "pos": 52,
+            "artist": "Drake",
+            "last_week": 16.0,
+            "peak_pos": 16,
+            "wks_on_chart": 2,
+            "score": 49
+        },
+        {
+            "date": "2022-12-03",
+            "pos": 77,
+            "artist": "Drake",
+            "last_week": 52.0,
+            "peak_pos": 16,
+            "wks_on_chart": 3,
+            "score": 24
+        },
+        {
+            "date": "2022-12-10",
+            "pos": 92,
+            "artist": "Drake",
+            "last_week": 77.0,
+            "peak_pos": 16,
+            "wks_on_chart": 4,
+            "score": 9
+        }
+    ],
+    "I Guess It's Fuck Me": [
+        {
+            "date": "2022-11-19",
+            "pos": 19,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 19,
+            "wks_on_chart": 1,
+            "score": 82
+        },
+        {
+            "date": "2022-11-26",
+            "pos": 81,
+            "artist": "Drake",
+            "last_week": 19.0,
+            "peak_pos": 19,
+            "wks_on_chart": 2,
+            "score": 20
+        }
+    ],
+    "Search & Rescue": [
+        {
+            "date": "2023-04-22",
+            "pos": 2,
+            "artist": "Drake",
+            "last_week": NaN,
+            "peak_pos": 2,
+            "wks_on_chart": 1,
+            "score": 99
+        },
+        {
+            "date": "2023-04-29",
+            "pos": 9,
+            "artist": "Drake",
+            "last_week": 2.0,
+            "peak_pos": 2,
+            "wks_on_chart": 2,
+            "score": 92
+        },
+        {
+            "date": "2023-05-06",
+            "pos": 12,
+            "artist": "Drake",
+            "last_week": 9.0,
+            "peak_pos": 2,
+            "wks_on_chart": 3,
+            "score": 89
+        },
+        {
+            "date": "2023-05-13",
+            "pos": 13,
+            "artist": "Drake",
+            "last_week": 12.0,
+            "peak_pos": 2,
+            "wks_on_chart": 4,
+            "score": 88
+        },
+        {
+            "date": "2023-05-20",
+            "pos": 15,
+            "artist": "Drake",
+            "last_week": 13.0,
+            "peak_pos": 2,
+            "wks_on_chart": 5,
+            "score": 86
+        },
+        {
+            "date": "2023-05-27",
+            "pos": 17,
+            "artist": "Drake",
+            "last_week": 15.0,
+            "peak_pos": 2,
+            "wks_on_chart": 6,
+            "score": 84
+        }
+    ]
+}

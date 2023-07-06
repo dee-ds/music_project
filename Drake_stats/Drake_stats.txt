@@ -1,0 +1,16 @@
+Drake basic statistics
+
+
+Number of solo songs: 125.
+Number of songs in collaboration (as leading artist): 80.
+
+Number of weeks on the Billboard Chart: 553.
+
+The total score based on solo songs only: 47837.
+The total score including collaborations (as leading artist): 99781.
+
+The very first song on the Billboard List: 'Best I Ever Had' (on 2009-05-23 ranking, pos: 92).
+The very last song on the Billboard List: 'Search & Rescue' (on 2023-05-27 ranking, pos: 17).
+
+The most successful solo song: 'God's Plan' (score: 3267, weeks on Chart: 36, peak position: 1).
+The most successful song in collaboration (as leading artist): 'One Dance' by 'Drake Featuring WizKid & Kyla' (score: 3193, weeks on Chart: 36, peak position: 1).
